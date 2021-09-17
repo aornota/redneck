@@ -8,7 +8,7 @@ A balanced hand with 13 HCP and scattered honours that should be opened {1NT}:
 
 > {| s:84 h:AQJ6 d:J932 c:KQ7 --shape --hcp |}
 
-A balanced hand with a "good" 12 HCP () that should be opened {1NT}:
+A balanced hand with a "good" 12 HCP - TODO-NMB... - that should be opened {1NT}:
 
 > TODO-NMB...
 
@@ -29,8 +29,4 @@ A balanced hand with 12 HCP and values concentrated in the 5-card major that cou
 
 
 
-#### <a name="Responses_to_1NT_opening bid"> Responses to {1NT} opening bid
-
-These are all fairly standard: Stayman; transfers; quantitative; and so on.
-
-_Details to follow..._
+{file:2111 Responses to 1NT opening bid.md}

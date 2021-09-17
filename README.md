@@ -4,7 +4,8 @@
 ## Table of contents
 
 * [**Introduction**](#Introduction)
-* [**1 level opening bids**](#1_level_opening_bids)
+* [**Opening bids**](#Opening_bids)
+  * [_**1 level opening bids**_](#1_level_opening_bids)
     * [1NT opening bid](#1NT_opening_bid)
       * [_Responses to 1NT opening bid_](#Responses_to_1NT_opening bid)
     * [1S opening bid](#1S_opening_bid)
@@ -30,7 +31,9 @@ It has the following notable features:
 - 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a balanced hand with either 10-b12 HCP or 15-17 HCP. This bid is forcing (with one exception).
 - 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows either an unbalanced hand with ca. 11-19 HCP and without a 4-card or longer major - or a balanced hand with 18-19 HCP. This bid is not forcing.
 
-# <a name="1_level_opening_bids"> 1-level opening bids
+# <a name="Opening_bids"> Opening bids
+
+## <a name="1_level_opening_bids"> 1-level opening bids
 
 ### <a name="1NT_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
 
@@ -42,7 +45,7 @@ A balanced hand with 13 HCP and scattered honours that should be opened 1![NT](h
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)84![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AQJ6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J932![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ7 -- balanced (_2_=_**4**_=_**4**_=3) | 13 HCP
 
-A balanced hand with a "good" 12 HCP () that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+A balanced hand with a "good" 12 HCP - TODO-NMB... - that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
 
 > TODO-NMB...
 
@@ -87,4 +90,3 @@ _Coming soon..._
 ### <a name="1C_opening_bid"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
-
