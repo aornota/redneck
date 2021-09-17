@@ -22,5 +22,4 @@ A balanced hand with 16 HCP that should be opened {1D}:
 
 {file:2142 Other responses to 1D opening.md}
 
-// TODO-NMB...
-{file:2149 Coping with interference after 1D opening.md}
+// TODO-NMB...{file:2149 Coping with interference after 1D opening.md}

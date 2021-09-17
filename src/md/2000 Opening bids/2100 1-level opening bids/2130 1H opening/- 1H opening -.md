@@ -10,5 +10,4 @@ _Coming soon..._
 
 {file:2131 Responses to 1H opening.md}
 
-// TODO-NMB...
-{file:2139 Coping with interference after 1H opening.md}
+// TODO-NMB...{file:2139 Coping with interference after 1H opening.md}
