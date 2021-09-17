@@ -6,7 +6,7 @@ All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 mean
 
 A {1D} opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 15-17 HCP hand - ca. 7 HCP or less - with 5+ diamonds, they can pass.
 
-(See  [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 7 HCP or less and no 5+ card suit.)
+(See [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 7 HCP or less and no 5+ card suit.)
 
 By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
 
