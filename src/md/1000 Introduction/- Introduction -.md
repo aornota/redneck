@@ -10,9 +10,8 @@ It has the following notable features:
 
 1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
 
-- {1NT} shows a balanced hand with g12-14 HCP.
-- {1S} shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer minor suit.
-- {1H} shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ hearts. It might have a longer spade suit or a longer minor suit.
-- {1D} shows a balanced hand with either 10-b12 HCP or 15-17 HCP.
-- {1C} shows either an unbalanced hand with ca. 11-19 HCP and without a 4-card or longer major - or a balanced hand with 18-19 HCP.
-
+- {1NT} shows a balanced hand with g12-14 HCP. This bid is not forcing.
+- {1S} shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer minor suit. This bid is not forcing.
+- {1H} shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ hearts. It might have a longer spade suit or a longer minor suit. This bid is not forcing.
+- {1D} shows a balanced hand with either 10-b12 HCP or 15-17 HCP. This bid is forcing (with one exception).
+- {1C} shows either an unbalanced hand with ca. 11-19 HCP and without a 4-card or longer major - or a balanced hand with 18-19 HCP. This bid is not forcing.
