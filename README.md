@@ -8,22 +8,22 @@
   * [_**1-level opening bids**_](#1-level_opening_bids)
     * [1NT opening](#1NT_opening)
       * [_Responses to 1NT opening_](#Responses_to_1NT_opening)
-      * [_Coping with interfernce after 1NT opening_](#Coping_with_interfernce_after_1NT_opening)
+      * [_Coping with interference after 1NT opening_](#Coping_with_interference_after_1NT_opening)
     * [1S opening](#1S_opening)
       * [_Responses to 1S opening_](#Responses_to_1S_opening)
-      * [_Coping with interfernce after 1S opening_](#Coping_with_interfernce_after_1S_opening)
+      * [_Coping with interference after 1S opening_](#Coping_with_interference_after_1S_opening)
     * [1H opening](#1H_opening)
       * [_Responses to 1H opening_](#Responses_to_1H_opening)
-      * [_Coping with interfernce after 1H opening_](#Coping_with_interfernce_after_1H_opening)
+      * [_Coping with interference after 1H opening_](#Coping_with_interference_after_1H_opening)
     * [1D opening](#1D_opening)
       * [_Relay response to 1D opening_](#Relay_response_to_1D_opening)
       * [_Other responses to 1D opening_](#Other_responses_to_1D_opening)
-      * [_Coping with interfernce after 1D opening_](#Coping_with_interfernce_after_1D_opening)
+      * [_Coping with interference after 1D opening_](#Coping_with_interference_after_1D_opening)
     * [1C opening](#1C_opening)
       * [_Negative response to 1C opening_](#Negative_response_to_1C_opening)
       * [_Positive response to 1C opening_](#Positive_response_to_1C_opening)
       * [_Other responses to 1C opening_](#Other_responses_to_1C_opening)
-      * [_Coping with interfernce after 1C opening_](#Coping_with_interfernce_after_1C_opening)
+      * [_Coping with interference after 1C opening_](#Coping_with_interference_after_1C_opening)
 
 # <a name="Introduction"> Introduction
 
@@ -81,7 +81,7 @@ These are all fairly standard: Stayman; transfers; quantitative; and so on.
 
 _Details to follow..._
 
-#### <a name="Coping_with_interfernce_after_1NT_opening"> Coping with interference after 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
+#### <a name="Coping_with_interference_after_1NT_opening"> Coping with interference after 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
 
 _Coming soon..._
 
@@ -97,9 +97,9 @@ _Coming soon..._
 
 #### <a name="Responses_to_1S_opening"> Responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-_Coming soon..._
+_Details to follow..._
 
-#### <a name="Coping_with_interfernce_after_1S_opening"> Coping with interference after 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+#### <a name="Coping_with_interference_after_1S_opening"> Coping with interference after 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
 _Coming soon..._
 
@@ -115,9 +115,9 @@ _Coming soon..._
 
 #### <a name="Responses_to_1H_opening"> Responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-_Coming soon..._
+_Details to follow..._
 
-#### <a name="Coping_with_interfernce_after_1H_opening"> Coping with interference after 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+#### <a name="Coping_with_interference_after_1H_opening"> Coping with interference after 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
 _Coming soon..._
 
@@ -149,7 +149,7 @@ _Details to follow..._
 
 _Details to follow..._
 
-#### <a name="Coping_with_interfernce_after_1D_opening"> Coping with interference after 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
+#### <a name="Coping_with_interference_after_1D_opening"> Coping with interference after 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
 _Coming soon..._
 
@@ -191,6 +191,6 @@ _Details to follow..._
 
 _Details to follow..._
 
-#### <a name="Coping_with_interfernce_after_1C_opening"> Coping with interference after 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+#### <a name="Coping_with_interference_after_1C_opening"> Coping with interference after 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
 _Coming soon..._
