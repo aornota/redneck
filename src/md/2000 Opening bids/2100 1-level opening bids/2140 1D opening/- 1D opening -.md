@@ -8,7 +8,7 @@ A {1D} opening bid is forcing, with one exception: if responder has less-than-in
 
 By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
 
-#### Some examples
+##### Some examples
 
 A balanced hand with 10 HCP that should be opened {1D}:
 

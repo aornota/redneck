@@ -4,7 +4,7 @@ All balanced (4333, 4432, and 5332) hands with g12-14 HCP (where g12 means "good
 
 A {1NT} opening bid is not forcing.
 
-#### Some examples
+##### Some examples
 
 A balanced hand with 13 HCP and scattered honours that should be opened {1NT}:
 

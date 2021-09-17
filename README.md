@@ -48,7 +48,7 @@ All balanced (4333, 4432, and 5332) hands with g12-14 HCP (where g12 means "good
 
 A 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid is not forcing.
 
-#### Some examples
+##### Some examples
 
 A balanced hand with 13 HCP and scattered honours that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
 
@@ -83,7 +83,7 @@ _Details to follow..._
 
 A 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid is not forcing.
 
-#### Some examples
+##### Some examples
 
 _Coming soon..._
 
@@ -98,7 +98,7 @@ _Details to follow..._
 
 A 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid is not forcing.
 
-#### Some examples
+##### Some examples
 
 _Coming soon..._
 
@@ -117,7 +117,7 @@ A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.p
 
 By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
 
-#### Some examples
+##### Some examples
 
 A balanced hand with 10 HCP that should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
 
@@ -150,7 +150,7 @@ A minimum unbalanced hand with both minors that should be opened 1![C](https://r
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)2![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J87![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AT83![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQT93 -- unbalanced (_1_=3=_**4**_=**5**) | 11 HCP
 
-A better-than-minimum unbalanced hand with long diamonds that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+A very unbalanced hand with long diamonds that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T62![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AK![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AQ65432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)7 -- very unbalanced (3=_2_=**7**=_1_) | 13 HCP
 
@@ -172,12 +172,12 @@ _Details to follow..._
 
 #### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-If responder has a very weak hand with a long (ideally 7+) suit - such that their hand is essentially worthless until their suit is the trump suit - they can make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
+If responder has a very weak hand with a long (ideally 7+) suit - such that their hand is essentially worthless unless their suit is the trump suit - they can make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
 
 Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit.
 
 ##### An example
 
-A very weak hand with long hearts that should make a weak "jump" response of 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png):
+A very weak hand with long spades that should make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)32![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)QT87542![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J3![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)96 -- unbalanced (_2_=**7**=_2_=_2_) | 3 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QT87542![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)32![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J3![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)96 -- unbalanced (**7**=_2_=_2_=_2_) | 3 HCP

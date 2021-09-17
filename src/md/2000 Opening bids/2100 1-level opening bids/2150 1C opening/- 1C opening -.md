@@ -12,7 +12,7 @@ A minimum unbalanced hand with both minors that should be opened {1C}:
 
 > {| s:2 h:J87 d:AT83 c:AQT93 --shape --hcp |}
 
-A better-than-minimum unbalanced hand with long diamonds that should be opened {1C}:
+A very unbalanced hand with long diamonds that should be opened {1C}:
 
 > {| s:T62 h:AK d:AQ65432 c:7 --shape --hcp |}
 
