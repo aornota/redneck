@@ -85,12 +85,19 @@ _Coming soon..._
 
 All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 means "bad 12") or 15-17 HCP should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - except that a 5332 hand with 15-17 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major. (A 5332 hand with 10-b12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
-A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength (even if partner has a 15-17 HCP hand) - ca. 7 HCP or less - and has 5+ diamonds, they can pass.
+A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ diamonds, they can pass.
+
+By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
 
 #### Some examples
 
-_Coming soon..._
+A balanced hand with 10 HCP that should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
 
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A7![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)QJ5![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J9872![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)Q54 -- balanced (_2_=3=**5**=3) | 10 HCP
+
+A balanced hand with 16 HCP that should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A974![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)Q9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AK87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)Q43 -- balanced (_**4**_=_2_=_**4**_=3) | 15 HCP
 
 #### <a name="Relay_response_to_1D_opening"> Relay response to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
