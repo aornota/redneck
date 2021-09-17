@@ -12,7 +12,7 @@ A balanced hand with a "good" 12 HCP - TODO-NMB... - that should be opened {1NT}
 
 > TODO-NMB...
 
-A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened <a href="#1D_opening_bid">{1D}</a> instead:
+A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened [{1D}](#1D_opening_bid) instead:
 
 > {| s:QJ2 h:J82 d:QJ63 c:KQ5 --shape --hcp |}
 

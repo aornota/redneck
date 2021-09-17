@@ -7,7 +7,7 @@
 * [**Opening bids**](#Opening_bids)
   * [_**1 level opening bids**_](#1_level_opening_bids)
     * [1NT opening bid](#1NT_opening_bid)
-      * [_Responses to 1NT opening bid_](#Responses_to_1NT_opening bid)
+      * [_Responses to 1NT opening bid_](#Responses_to_1NT_opening_bid)
     * [1S opening bid](#1S_opening_bid)
     * [1H opening bid](#1H_opening_bid)
     * [1D opening bid](#1D_opening_bid)
@@ -49,7 +49,7 @@ A balanced hand with a "good" 12 HCP - TODO-NMB... - that should be opened 1![NT
 
 > TODO-NMB...
 
-A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened <a href="#1D_opening_bid">1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)</a> instead:
+A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening_bid) instead:
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QJ2![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J82![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QJ63![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ5 -- balanced (3=3=_**4**_=3) | 12 HCP
 
@@ -66,7 +66,7 @@ A balanced hand with 12 HCP and values concentrated in the 5-card major that cou
 
 
 
-#### <a name="Responses_to_1NT_opening bid"> Responses to 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+#### <a name="Responses_to_1NT_opening_bid"> Responses to 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
 
 These are all fairly standard: Stayman; transfers; quantitative; and so on.
 
@@ -76,16 +76,13 @@ _Details to follow..._
 
 _Coming soon..._
 
-
 ### <a name="1H_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
 
 _Coming soon..._
 
-
 ### <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
 
 _Coming soon..._
-
 
 ### <a name="1C_opening_bid"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 

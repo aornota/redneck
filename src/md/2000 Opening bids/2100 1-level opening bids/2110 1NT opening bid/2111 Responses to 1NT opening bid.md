@@ -1,4 +1,4 @@
-#### <a name="Responses_to_1NT_opening bid"> Responses to {1NT} opening bid
+#### <a name="Responses_to_1NT_opening_bid"> Responses to {1NT} opening bid
 
 These are all fairly standard: Stayman; transfers; quantitative; and so on.
 
