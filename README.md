@@ -5,11 +5,12 @@
 
 * [**Introduction**](#Introduction)
 * [**1 level opening bids**](#1_level_opening_bids)
-  * [_**1NT opening bid**_](#1NT_opening_bid)
-  * [_**1S opening bid**_](#1S_opening_bid)
-  * [_**1H opening bid**_](#1H_opening_bid)
-  * [_**1D opening bid**_](#1D_opening_bid)
-  * [_**1C opening bid**_](#1C_opening_bid)
+    * [1NT opening bid](#1NT_opening_bid)
+      * [_Responses to 1NT opening bid_](#Responses_to_1NT_opening bid)
+    * [1S opening bid](#1S_opening_bid)
+    * [1H opening bid](#1H_opening_bid)
+    * [1D opening bid](#1D_opening_bid)
+    * [1C opening bid](#1C_opening_bid)
 
 # <a name="Introduction"> Introduction
 
@@ -31,27 +32,59 @@ It has the following notable features:
 
 # <a name="1_level_opening_bids"> 1-level opening bids
 
-## <a name="1NT_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+### <a name="1NT_opening_bid"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+
+All balanced (4333, 4432, and 5332) hands with g12-14 HCP (where g12 means "good 12") should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) - except that a 5332 hand with a 5-card major can be opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) if it does not feel "no-trumpy" (e.g. if values are concentrated in the major).
+
+#### Some examples
+
+A balanced hand with 13 HCP and scattered honours that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)84![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AQJ6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J932![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ7 -- balanced (_2_=_**4**_=_**4**_=3) | 13 HCP
+
+A balanced hand with a "good" 12 HCP () that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+
+> TODO-NMB...
+
+A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened <a href="#1D_opening_bid">1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)</a> instead:
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QJ2![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J82![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QJ63![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ5 -- balanced (3=3=_**4**_=3) | 12 HCP
+
+A balanced hand with 14 HCP and a 5-card major that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AT![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)QJ965![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K98 -- balanced (_2_=**5**=3=3) | 14 HCP
+
+A balanced hand with 12 HCP and values concentrated in the 5-card major that could be opened <a href="#1S_opening_bid">1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)</a>:
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AKQJ9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)43![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J62![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)J76 -- balanced (**5**=_2_=3=3) | 12 HCP
+
+
+
+
+
+
+#### <a name="Responses_to_1NT_opening bid"> Responses to 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid
+
+These are all fairly standard: Stayman; transfers; quantitative; and so on.
+
+_Details to follow..._
+
+### <a name="1S_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
 
 _Coming soon..._
 
 
-## <a name="1S_opening_bid"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid
+### <a name="1H_opening_bid"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid
 
 _Coming soon..._
 
 
-## <a name="1H_opening_bid"> **_WARNING_ -> Unprocessed tag:**!H opening bid
+### <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
 
 _Coming soon..._
 
 
-## <a name="1D_opening_bid"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid
-
-_Coming soon..._
-
-
-## <a name="1C_opening_bid"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
+### <a name="1C_opening_bid"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid
 
 _Coming soon..._
 
