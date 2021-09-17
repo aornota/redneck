@@ -32,7 +32,7 @@ It has the following notable features:
 - All unbalanced hands with ca. 11-19 HCP and containing at least one 4-card or longer major suit are opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening), even if they have a longer (or equal length) minor suit.
 - All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit are opened [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening).
 
-1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
+Specifically, the 1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
 
 - [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) shows a balanced hand with g12-14 HCP. This bid is not forcing.
 - [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) shows an unbalanced hand (or occasionally 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer (or equal length) minor suit. This bid is not forcing.

@@ -8,7 +8,7 @@ It has the following notable features:
 - All unbalanced hands with ca. 11-19 HCP and containing at least one 4-card or longer major suit are opened [{1S}](#1S_opening) or [{1H}](#1H_opening), even if they have a longer (or equal length) minor suit.
 - All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit are opened [{1C}](#1C_opening).
 
-1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
+Specifically, the 1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
 
 - [{1NT}](#1NT_opening) shows a balanced hand with g12-14 HCP. This bid is not forcing.
 - [{1S}](#1S_opening) shows an unbalanced hand (or occasionally 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer (or equal length) minor suit. This bid is not forcing.
