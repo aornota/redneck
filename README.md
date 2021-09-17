@@ -8,14 +8,22 @@
   * [_**1-level opening bids**_](#1-level_opening_bids)
     * [1NT opening](#1NT_opening)
       * [_Responses to 1NT opening_](#Responses_to_1NT_opening)
+      * [_Coping with interfernce after 1NT opening_](#Coping_with_interfernce_after_1NT_opening)
     * [1S opening](#1S_opening)
+      * [_Responses to 1S opening_](#Responses_to_1S_opening)
+      * [_Coping with interfernce after 1S opening_](#Coping_with_interfernce_after_1S_opening)
     * [1H opening](#1H_opening)
+      * [_Responses to 1H opening_](#Responses_to_1H_opening)
+      * [_Coping with interfernce after 1H opening_](#Coping_with_interfernce_after_1H_opening)
     * [1D opening](#1D_opening)
       * [_Relay response to 1D opening_](#Relay_response_to_1D_opening)
       * [_Other responses to 1D opening_](#Other_responses_to_1D_opening)
+      * [_Coping with interfernce after 1D opening_](#Coping_with_interfernce_after_1D_opening)
     * [1C opening](#1C_opening)
       * [_Negative response to 1C opening_](#Negative_response_to_1C_opening)
       * [_Positive response to 1C opening_](#Positive_response_to_1C_opening)
+      * [_Other responses to 1C opening_](#Other_responses_to_1C_opening)
+      * [_Coping with interfernce after 1C opening_](#Coping_with_interfernce_after_1C_opening)
 
 # <a name="Introduction"> Introduction
 
@@ -73,17 +81,51 @@ These are all fairly standard: Stayman; transfers; quantitative; and so on.
 
 _Details to follow..._
 
+#### <a name="Coping_with_interfernce_after_1NT_opening"> Coping with interference after 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
+
+_Coming soon..._
+
 ### <a name="1S_opening"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+
+_Details to follow..._
+
+A 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid is not forcing.
+
+#### Some examples
+
+_Coming soon..._
+
+#### <a name="Responses_to_1S_opening"> Responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+
+_Coming soon..._
+
+#### <a name="Coping_with_interfernce_after_1S_opening"> Coping with interference after 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
 _Coming soon..._
 
 ### <a name="1H_opening"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
+_Details to follow..._
+
+A 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid is not forcing.
+
+#### Some examples
+
+_Coming soon..._
+
+#### <a name="Responses_to_1H_opening"> Responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+
+_Coming soon..._
+
+#### <a name="Coping_with_interfernce_after_1H_opening"> Coping with interference after 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+
 _Coming soon..._
 
 ### <a name="1D_opening"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
-All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 means "bad 12") or 15-17 HCP should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - except that a 5332 hand with 15-17 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major. (A 5332 hand with 10-b12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
+All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 means "bad 12") or 15-17 HCP should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - except that a 5332 hand with 15-17 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
+
+(A 5332 hand with 10-b12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
 A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ diamonds, they can pass.
 
@@ -97,7 +139,7 @@ A balanced hand with 10 HCP that should be opened 1![D](https://raw.githubuserco
 
 A balanced hand with 16 HCP that should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A974![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)Q9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AK87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)Q43 -- balanced (_**4**_=_2_=_**4**_=3) | 15 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A974![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)Q9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AK87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)QJ3 -- balanced (_**4**_=_2_=_**4**_=3) | 16 HCP
 
 #### <a name="Relay_response_to_1D_opening"> Relay response to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
@@ -107,10 +149,15 @@ _Details to follow..._
 
 _Details to follow..._
 
+#### <a name="Coping_with_interfernce_after_1D_opening"> Coping with interference after 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
+
+_Coming soon..._
 
 ### <a name="1C_opening"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
 All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 18-19 HCP - are opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+
+(As usual, a 5332 hand with 18-19 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy".)
 
 A 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid is forcing.
 
@@ -139,3 +186,11 @@ _Details to follow..._
 #### <a name="Positive_response_to_1C_opening"> Positive response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
 _Details to follow..._
+
+#### <a name="Other_responses_to_1C_opening"> Other responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+_Details to follow..._
+
+#### <a name="Coping_with_interfernce_after_1C_opening"> Coping with interference after 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+_Coming soon..._

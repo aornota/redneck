@@ -27,3 +27,6 @@ A balanced hand with 12 HCP and values concentrated in the 5-card major that cou
 > {| s:AKQJ9 h:43 d:J62 c:J76 --shape --hcp |}
 
 {file:2111 Responses to 1NT opening.md}
+
+// TODO-NMB...
+{file:2119 Coping with interference after 1NT opening.md}
