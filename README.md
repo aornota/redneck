@@ -1,4 +1,4 @@
-# ![bridge](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/tpoc-32x32.png) | redneck (pre-_α_)
+# ![redneck](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/tpoc-32x32.png) | redneck (pre-_α_)
 
 
 ## Table of contents
@@ -10,11 +10,27 @@
 
 # <a name="Introduction"> Introduction
 
-_Work-in-progress towards a Bridge bidding system..._
+Redneck is an experimental Bridge bidding system invented by Jack and Neph after one bottle of wine too many.
 
+It has the following notable features:
 
+    - All balanced (4333, 4432, and 5332) hands with 10-19 HCP can be shown - divided into four separate HCP ranges - at the 1-level (assuming no interference).
 
+    - All unbalanced hands with ca. 11-19 HCP and containing at least one 4-card or longer major suit are opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), even if they have a longer minor suit.
 
+    - All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit are opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+
+1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
+
+    - 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a balanced hand with g12-14 HCP.
+
+    - 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer minor suit.
+
+    - 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ hearts. It might have a longer spade suit or a longer minor suit.
+
+    - 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a balanced hand with either 10-b12 HCP or 15-17 HCP.
+
+    - 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows either an unbalanced hand with ca. 11-19 HCP and without a 4-card or longer major - or a balanced hand with 18-19 HCP.
 
 
 
