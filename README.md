@@ -12,6 +12,9 @@
     * [1H opening](#1H_opening)
     * [1D opening](#1D_opening)
     * [1C opening](#1C_opening)
+      * [_Negative response to 1C opening_](#Negative_response_to_1C_opening)
+      * [_Positive response to 1C opening_](#Positive_response_to_1C_opening)
+      * [_Coping with interfernce after 1C opening_](#Coping_with_interfernce_after_1C_opening)
 
 # <a name="Introduction"> Introduction
 
@@ -37,7 +40,7 @@ It has the following notable features:
 
 ### <a name="1NT_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
 
-All balanced (4333, 4432, and 5332) hands with g12-14 HCP (where g12 means "good 12") should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) - except that a 5332 hand with a 5-card major can be opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) if it does not feel "no-trumpy" (e.g. if values are concentrated in the major).
+All balanced (4333, 4432, and 5332) hands with g12-14 HCP (where g12 means "good 12") should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) - except that a 5332 hand with a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
 #### Some examples
 
@@ -80,5 +83,21 @@ _Coming soon..._
 _Coming soon..._
 
 ### <a name="1C_opening"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 18-19 HCP - are opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). This bid is forcing.
+
+#### Some examples
+
+_Coming soon..._
+
+#### <a name="Negative_response_to_1C_opening"> Negative response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+_Details to follow..._
+
+#### <a name="Positive_response_to_1C_opening"> Positive response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+_Details to follow..._
+
+#### <a name="Coping_with_interfernce_after_1C_opening"> Coping with interference after 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
 _Coming soon..._
