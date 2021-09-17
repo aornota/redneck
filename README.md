@@ -115,7 +115,7 @@ All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 mean
 
 (A 5332 hand with 10-b12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
-A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ diamonds, they can pass. (See  [weak transfer responses to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening](Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a differnt 5+ card suit.)
+A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ diamonds, they can pass. (See  [weak transfer responses to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a differnt 5+ card suit.)
 
 By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
 
