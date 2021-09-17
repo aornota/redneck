@@ -8,9 +8,9 @@ A balanced hand with 13 HCP and scattered honours that should be opened {1NT}:
 
 > {| s:84 h:AQJ6 d:J932 c:KQ7 --shape --hcp |}
 
-A balanced hand with a "good" 12 HCP - TODO-NMB... - that should be opened {1NT}:
+A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that should be opened {1NT}:
 
-> TODO-NMB...
+> {| s:A9 h:J84 d:QT2 c:AJT97 --shape --hcp |}
 
 A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened [{1D}](#1D_opening) instead:
 
@@ -18,7 +18,7 @@ A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates 
 
 A balanced hand with 14 HCP and a 5-card major that should be opened {1NT}:
 
-> {| s:AT h:QJ965 d:AT2 c:K98 --shape --hcp |}
+> {| s:AT h:QJ763 d:AT2 c:K98 --shape --hcp |}
 
 A balanced hand with 12 HCP and values concentrated in the 5-card major that could be opened [{1S}](#1S_opening):
 
