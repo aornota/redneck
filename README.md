@@ -88,7 +88,21 @@ All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major sui
 
 #### Some examples
 
-_Coming soon..._
+A minimum unbalanced hand with both minors that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)2![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J87![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AT83![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQT93 -- unbalanced (_1_=3=_**4**_=**5**) | 11 HCP
+
+A better than minimum unbalanced hand with long diamonds that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T62![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AK![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AQ65432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)7 -- very unbalanced (3=_2_=**7**=_1_) | 13 HCP
+
+A strong unbalanced hand with long clubs that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)KQ3![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)8![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q43![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AKQ842 -- unbalanced (3=_1_=3=**6**) | 16 HCP
+
+A balanced hand with 18 HCP that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A765![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)KQ2![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QJ65![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQ -- balanced (_**4**_=3=_**4**_=_2_) | 18 HCP
 
 #### <a name="Negative_response_to_1C_opening"> Negative response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 

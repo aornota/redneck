@@ -4,7 +4,21 @@ All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major sui
 
 #### Some examples
 
-_Coming soon..._
+A minimum unbalanced hand with both minors that should be opened {1C}:
+
+> {| s:2 h:J87 d:AT83 c:AQT93 --shape --hcp |}
+
+A better than minimum unbalanced hand with long diamonds that should be opened {1C}:
+
+> {| s:T62 h:AK d:AQ65432 c:7 --shape --hcp |}
+
+A strong unbalanced hand with long clubs that should be opened {1C}:
+
+> {| s:KQ3 h:8 d:Q43 c:AKQ842 --shape --hcp |}
+
+A balanced hand with 18 HCP that should be opened {1C}:
+
+> {| s:A765 h:KQ2 d:QJ65 c:AQ --shape --hcp |}
 
 {file:2151 Negative response to 1C opening.md}
 
