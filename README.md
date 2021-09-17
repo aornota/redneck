@@ -1,6 +1,5 @@
 # ![redneck](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/tpoc-32x32.png) | redneck (pre-_α_)
 
-
 ![they took our bids!](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/redneck.jpg)
 
 ## Table of contents
@@ -16,7 +15,8 @@
       * [_Responses to 1H opening_](#Responses_to_1H_opening)
     * [1D opening](#1D_opening)
       * [_Relay response to 1D opening_](#Relay_response_to_1D_opening)
-      * [_Other responses to 1D opening_](#Other_responses_to_1D_opening)
+      * [_Weak transfer responses to 1D opening_](#Weak_transfer_responses_to_1D_opening)
+      * [_1NT response to 1D opening_](#1NT_response_to_1D_opening)
     * [1C opening](#1C_opening)
       * [_Negative response to 1C opening_](#Negative_response_to_1C_opening)
       * [_Positive response to 1C opening_](#Positive_response_to_1C_opening)
@@ -35,8 +35,8 @@ It has the following notable features:
 1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
 
 - [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) shows a balanced hand with g12-14 HCP. This bid is not forcing.
-- [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer (or equal length) minor suit. This bid is not forcing.
-- [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) shows an unbalanced hand (or 5332) with ca. 11-19 HCP and with 4+ hearts. It might have a longer (or equal length) spade suit or a longer (or equal length) minor suit. This bid is not forcing.
+- [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) shows an unbalanced hand (or occasionally 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer (or equal length) minor suit. This bid is not forcing.
+- [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) shows an unbalanced hand (or occasionally 5332) with ca. 11-19 HCP and with 4+ hearts. It might have a longer (or equal length) spade suit and/or a longer (or equal length) minor suit. This bid is not forcing.
 - [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening) shows a balanced hand with either 10-b12 HCP or 15-17 HCP. This bid is forcing (with one exception).
 - [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening) shows either an unbalanced hand with ca. 11-19 HCP and without a 4-card or longer major - or a balanced hand with 18-19 HCP. This bid is forcing.
 
@@ -115,7 +115,7 @@ All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 mean
 
 (A 5332 hand with 10-b12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
-A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ diamonds, they can pass.
+A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ diamonds, they can pass. (See  [weak transfer responses to **_WARNING_ -> Unprocessed tag:**!D opening](Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a differnt 5+ card suit.)
 
 By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
 
@@ -133,7 +133,11 @@ A balanced hand with 16 HCP that should be opened 1![D](https://raw.githubuserco
 
 _Details to follow..._
 
-#### <a name="Other_responses_to_1D_opening"> Other responses to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
+#### <a name="Weak_transfer_responses_to_1D_opening"> Weak transfer responses to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
+
+_Details to follow..._
+
+#### <a name="1NT_response_to_1D_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
 _Details to follow..._
 
