@@ -115,7 +115,9 @@ All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 mean
 
 (A 5332 hand with 10-b12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
-A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: if responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ diamonds, they can pass. (See  [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a differnt 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 7 HCP or less and no 5+ card suit.)
+A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 15-17 HCP hand - ca. 7 HCP or less - with 5+ diamonds, they can pass.
+
+(See  [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 7 HCP or less and no 5+ card suit.)
 
 By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
 
@@ -135,13 +137,13 @@ _Details to follow..._
 
 #### <a name="Weak_transfer_responses_to_1D_opening"> Weak transfer responses to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
-If responder has less-than-invitational strength even if partner has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ cards in a suit other than diamonds, they can make a weak transfer response and then pass opener's forced rebid, as follows:
+When responder has less-than-invitational strength even if opener has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ cards in a suit other than diamonds, they can make a weak transfer response and then pass opener's forced rebid, as follows:
 
 - With 5+ clubs, they respond 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and opener is forced to rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 - With 5+ hearts, they respond 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) and opener is forced to rebid 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
 - With 5+ spades, they respond 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and opener is forced to rebid 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 
-(Note that with a 5+ major, the transfer response is the same as over a 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid. Although responder could relay and then transfer, transferring immediately is preferable: relaying would leak information about opener's HCP range - and would also be more vulnerable to interference.)
+(Note that with 5+ cards in a major suit, the transfer response is the same as over a 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid. Although responder could relay with 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and then transfer, transferring immediately is preferable: relaying would leak information about opener's HCP range - and would also be more vulnerable to interference.)
 
 As mentioned above, with 5+ diamonds, responder can just pass the 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid.
 
@@ -153,7 +155,19 @@ A less-than-invitational hand with 5+ clubs that should make a weak transfer res
 
 #### <a name="1NT_response_to_1D_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
-_Details to follow..._
+When responder has invitational strength if opener has a 10-b12 HCP hand - ca. g13-14 HCP - and a balanced hand (usually without a 4-card or longer major), they can invite game by responding 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+
+(When responder has a 4-card or longer major, they will often prefer to relay with 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and then make a Stayman or transfer bid.)
+
+If opener has a 10-b12 HCP hand, they should bid 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) with a maximum and pass otherwise.
+
+If opener has a 15-17 HCP hand, they should bid 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (or explore for a thin slam).
+
+##### An example
+
+A balanced hand (without a 4-card or longer major) with invitational strength if opener has a 10-b12 HCP hand that should respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J94![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AK3![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)KQT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T98 -- balanced (3=3=_**4**_=3) | 13 HCP
 
 
 ### <a name="1C_opening"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
@@ -192,9 +206,9 @@ _Details to follow..._
 
 #### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-If responder has a very weak hand with a long (ideally 7+) suit - such that their hand is essentially worthless unless their suit is the trump suit - they can make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
+When responder has a very weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they can make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
 
-Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit.
+Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long minor will be better).
 
 ##### An example
 
