@@ -6,7 +6,7 @@ All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major sui
 
 A {1C} opening bid is forcing.
 
-#### Some examples
+##### Some examples
 
 A minimum unbalanced hand with both minors that should be opened {1C}:
 
@@ -28,6 +28,6 @@ A balanced hand with 18 HCP that should be opened {1C}:
 
 {file:2152 Positive response to 1C opening.md}
 
-{file:2153 Other responses to 1C opening.md}
+{file:2153 Weak jump responses to 1C opening.md}
 
 // TODO-NMB...{file:2159 Coping with interference after 1C opening.md}
