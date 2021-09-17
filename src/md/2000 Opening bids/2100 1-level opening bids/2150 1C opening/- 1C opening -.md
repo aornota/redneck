@@ -1,6 +1,8 @@
 ### <a name="1C_opening"> {1C} opening
 
-All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 18-19 HCP - are opened {1C}. This bid is forcing.
+All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 18-19 HCP - are opened {1C}.
+
+A {1C} opening bid is forcing.
 
 #### Some examples
 
@@ -8,7 +10,7 @@ A minimum unbalanced hand with both minors that should be opened {1C}:
 
 > {| s:2 h:J87 d:AT83 c:AQT93 --shape --hcp |}
 
-A better than minimum unbalanced hand with long diamonds that should be opened {1C}:
+A better-than-minimum unbalanced hand with long diamonds that should be opened {1C}:
 
 > {| s:T62 h:AK d:AQ65432 c:7 --shape --hcp |}
 
@@ -24,4 +26,4 @@ A balanced hand with 18 HCP that should be opened {1C}:
 
 {file:2152 Positive response to 1C opening.md}
 
-{file:2159 Coping with interference after 1C opening.md}
+// TODO-NMB...{file:2159 Coping with interference after 1C opening.md}

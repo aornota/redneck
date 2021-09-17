@@ -2,6 +2,8 @@
 
 All balanced (4333, 4432, and 5332) hands with g12-14 HCP (where g12 means "good 12") should be opened {1NT} - except that a 5332 hand with a 5-card major can be opened [{1S}](#1S_opening) or [{1H}](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
+A {1NT} opening bid is not forcing.
+
 #### Some examples
 
 A balanced hand with 13 HCP and scattered honours that should be opened {1NT}:
