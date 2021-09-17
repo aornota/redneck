@@ -3,6 +3,8 @@
 (* TEMP-NMB...
 {file:tag examples.md} *)
 
+![they took our bids!](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/redneck.jpg)
+
 ## Table of contents
 
 {toc}
