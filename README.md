@@ -212,7 +212,19 @@ A balanced hand with 18 HCP that should be opened 1![C](https://raw.githubuserco
 
 #### <a name="Negative_response_to_1C_opening"> Negative response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-_Details to follow..._
+When responder has a very weak hand - ca. 5 HCP or less - they should usually make a negative response of 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
+
+(If they have a long suit - ideally 7+ cards - they should prefer a [weak "jump" response](#Weak_jump_responses_to_1C_opening) instead.)
+
+Opener rebids as follows:
+
+- With 5+ diamonds, they pass. (This will occasionally mean playing in a 5- or 6-card diamond fit. Can't win 'em all.)
+- With exactly 4 diamonds and 5 clubs, they rebid 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note that since they cannot open 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) with a 4-card major, they cannot have a majpr suit void: with 4=0=4=5 or 0=4=4=5, they would have opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) respectively.) Responder then rebids as follows:
+    - With 6+ hearts (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they pass.
+    - With 6+ spades (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they bid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Opener must pass.
+    - With at least a 7-card fit in one or both minors, they bid the longer fit (i.e. 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)). Opener must pass.
+    - Otherwise, they bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
+- With 6+ clubs, they rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). Responder must pass.
 
 #### <a name="Positive_response_to_1C_opening"> Positive response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
@@ -220,7 +232,7 @@ _Details to follow..._
 
 #### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-When responder has a very weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they can make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
+When responder has a very weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they can make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note that 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
 
 Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long minor will be better).
 
