@@ -219,7 +219,7 @@ When responder has a very weak hand - ca. 5 HCP or less - they should usually ma
 Opener rebids as follows:
 
 - With 5+ diamonds, they pass. (This will occasionally mean playing in a 5- or 6-card diamond fit. Can't win 'em all.)
-- With exactly 4 diamonds and 5 clubs, they rebid 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note that since they cannot open 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) with a 4-card major, they cannot have a majpr suit void: with 4=0=4=5 or 0=4=4=5, they would have opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) respectively.) Responder then rebids as follows:
+- With exactly 4 diamonds and 5 clubs, they rebid 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note that since they would not have opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) with a 4-card major, they cannot have a major suit void: with 4=0=4=5 or 0=4=4=5, they would have opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) respectively.) Responder then rebids as follows:
     - With 6+ hearts (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they pass.
     - With 6+ spades (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they bid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Opener must pass.
     - With at least a 7-card fit in one or both minors, they bid the longer fit (i.e. 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)). Opener must pass.
@@ -228,7 +228,20 @@ Opener rebids as follows:
 
 #### <a name="Positive_response_to_1C_opening"> Positive response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-_Details to follow..._
+When responder has ca. 6+ HCP, they should make a positive response of 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+
+Opener rebids as follows:
+
+- With both minor suits (at least 5-4) and minimum strength, they rebid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
+    - Responder can then relay with 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask opener to rebid their longer (or stronger if equal length) minor at the 2-level - or, if short in both minors, improvise some other bid.
+- With a balanced (4333, 4432, and 5332) hand and 18-19 HCP, they rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+    - Responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 18-19 HCP, not g12-14 HCP).
+- With 6+ clubs and mininum strength, they rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+- With 6+ diamonds and mininum strength, they rebid 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
+- With both minor suits (at least 5-4) and a strong hand, they rebid 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
+    - Responder can then relay with 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask opener to rebid their longer (or stronger if equal length) minor at the 3-level - or, if short in both minors, improvise some other bid.
+- With 6+ clubs and a strong hand, they rebid 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+- With 6+ diamonds and a strong hand, they rebid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
 
 #### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 

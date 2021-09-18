@@ -7,7 +7,7 @@ When responder has a very weak hand - ca. 5 HCP or less - they should usually ma
 Opener rebids as follows:
 
 - With 5+ diamonds, they pass. (This will occasionally mean playing in a 5- or 6-card diamond fit. Can't win 'em all.)
-- With exactly 4 diamonds and 5 clubs, they rebid {1H}. (Note that since they cannot open {1C} with a 4-card major, they cannot have a majpr suit void: with 4=0=4=5 or 0=4=4=5, they would have opened {1S} or {1H} respectively.) Responder then rebids as follows:
+- With exactly 4 diamonds and 5 clubs, they rebid {1H}. (Note that since they would not have opened {1C} with a 4-card major, they cannot have a major suit void: with 4=0=4=5 or 0=4=4=5, they would have opened {1S} or {1H} respectively.) Responder then rebids as follows:
     - With 6+ hearts (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they pass.
     - With 6+ spades (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they bid {1S}. Opener must pass.
     - With at least a 7-card fit in one or both minors, they bid the longer fit (i.e. {2D} or {2C}). Opener must pass.
