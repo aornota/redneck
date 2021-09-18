@@ -9,18 +9,23 @@
   * [_**1-level opening bids**_](#1-level_opening_bids)
     * [1NT opening](#1NT_opening)
       * [_Responses to 1NT opening_](#Responses_to_1NT_opening)
+      * [_Coping with interference after 1NT opening_](#Coping_with_interference_after_1NT_opening)
     * [1S opening](#1S_opening)
       * [_Responses to 1S opening_](#Responses_to_1S_opening)
+      * [_Coping with interference after 1S opening_](#Coping_with_interference_after_1S_opening)
     * [1H opening](#1H_opening)
       * [_Responses to 1H opening_](#Responses_to_1H_opening)
+      * [_Coping with interference after 1H opening_](#Coping_with_interference_after_1H_opening)
     * [1D opening](#1D_opening)
       * [_Relay response to 1D opening_](#Relay_response_to_1D_opening)
       * [_Weak transfer responses to 1D opening_](#Weak_transfer_responses_to_1D_opening)
       * [_1NT response to 1D opening_](#1NT_response_to_1D_opening)
+      * [_Coping with interference after 1D opening_](#Coping_with_interference_after_1D_opening)
     * [1C opening](#1C_opening)
       * [_Negative response to 1C opening_](#Negative_response_to_1C_opening)
       * [_Positive response to 1C opening_](#Positive_response_to_1C_opening)
       * [_Weak jump responses to 1C opening_](#Weak_jump_responses_to_1C_opening)
+      * [_Coping with interference after 1C opening_](#Coping_with_interference_after_1C_opening)
 
 # <a name="Introduction"> Introduction
 
@@ -78,6 +83,9 @@ These are all fairly standard: Stayman; transfers; quantitative; and so on.
 
 _Details to follow..._
 
+#### <a name="Coping_with_interference_after_1NT_opening"> Coping with interference after 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
+
+_Coming soon..._
 
 ### <a name="1S_opening"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
@@ -95,6 +103,9 @@ _Coming soon..._
 
 _Details to follow..._
 
+#### <a name="Coping_with_interference_after_1S_opening"> Coping with interference after 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+
+_Coming soon..._
 
 ### <a name="1H_opening"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
@@ -112,6 +123,9 @@ _Coming soon..._
 
 _Details to follow..._
 
+#### <a name="Coping_with_interference_after_1H_opening"> Coping with interference after 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+
+_Coming soon..._
 
 ### <a name="1D_opening"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
@@ -183,6 +197,9 @@ A balanced hand (without a 4-card or longer major) with invitational strength if
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J94![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AK3![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)KQT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T98 -- balanced (3=3=_**4**_=3) | 13 HCP
 
+#### <a name="Coping_with_interference_after_1D_opening"> Coping with interference after 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
+
+_Coming soon..._
 
 ### <a name="1C_opening"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
@@ -254,3 +271,7 @@ Opener should usually pass, though may choose to do otherwise with a strong hand
 A very weak hand with long spades that should make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QT87542![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)32![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J3![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)96 -- unbalanced (**7**=_2_=_2_=_2_) | 3 HCP
+
+#### <a name="Coping_with_interference_after_1C_opening"> Coping with interference after 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+_Coming soon..._
