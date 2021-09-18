@@ -14,7 +14,7 @@ A minimum unbalanced hand with both minors that should be opened {1C}:
 
 A very unbalanced hand with long diamonds that should be opened {1C}:
 
-> {| s:T62 h:AK d:AQ65432 c:7 --shape --hcp |}
+> {| s:T62 h:AK d:AQ765432 c:- --shape --hcp |}
 
 A strong unbalanced hand with long clubs that should be opened {1C}:
 

@@ -200,7 +200,7 @@ A minimum unbalanced hand with both minors that should be opened 1![C](https://r
 
 A very unbalanced hand with long diamonds that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T62![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AK![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AQ65432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)7 -- very unbalanced (3=_2_=**7**=_1_) | 13 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T62![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AK![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AQ765432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)- -- very unbalanced (3=_2_=**8**=_0_) | 13 HCP
 
 A strong unbalanced hand with long clubs that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
 
