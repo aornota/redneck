@@ -2,6 +2,8 @@
 
 When responder has ca. 8+ HCP - or ca. 7 HCP or less and no 5+ card suit - they should make a relay response of {1H}.
 
+(If they have invitational strength if opener has a 10-b12 HCP hand - ca. g13-14 HCP - and a balanced hand without a 4-card or longer major, they should prefer a [{1NT} response](#1NT_response_to_1D_opening) instead.)
+
 If opener has a 10-b12 HCP hand, they should rebid {1S}. Responder then rebids as follows:
 
 - With ca. 7 HCP or less and no 5+ card suit, they should bid {1NT}. Opener must pass.
