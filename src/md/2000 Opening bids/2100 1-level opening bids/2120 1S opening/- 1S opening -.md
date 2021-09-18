@@ -10,6 +10,10 @@ A {1S} opening bid is not forcing.
 
 _Coming soon..._
 
+TODO-NMB...Blah blah blah should be opened {1S}:
+
+{| s:AK63 h:T42 d:- c:AQJT62 --shape --hcp |}
+
 {file:2121 Responses to 1S opening.md}
 
 {file:2129 Coping with interference after 1S opening.md}
