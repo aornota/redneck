@@ -91,9 +91,6 @@ A 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.p
 
 _Coming soon..._
 
-TODO-NMB...Blah blah blah should be opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png):
-
-![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AK63![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)T42![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)-![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQJT62 -- very unbalanced (_**4**_=3=_0_=**6**) | 14 HCP
 
 #### <a name="Responses_to_1S_opening"> Responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
