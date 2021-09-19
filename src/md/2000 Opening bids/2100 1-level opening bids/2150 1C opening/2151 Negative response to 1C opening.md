@@ -12,4 +12,5 @@ Opener rebids as follows:
     - With 6+ spades (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they bid {1S}. Opener must pass.
     - With at least a 7-card fit in one or both minors, they bid the longer fit (i.e. {2D} or {2C}). Opener must pass.
     - Otherwise, they bid {1NT}. Opener must pass.
+- With a balanced hand and 19-21 HCP, they rebid {1NT}. Responder will often pass, though they can use garbage Stayman or transfers (as over a {1NT} opening bid) as appropriate - or even invite game (via Stayman or a transfer) with 4-5 HCP.
 - With 6+ clubs, they rebid {2C}. Responder must pass.

@@ -28,17 +28,17 @@ Redneck is an experimental Bridge bidding system invented by Jack and Neph after
 
 It has the following notable features:
 
-- All balanced (4333, 4432, and 5332) hands with 10-19 HCP can be shown - divided into four separate HCP ranges - at the 1-level (assuming no interference).
+- All balanced (4333, 4432, and 5332) hands with 10-21 HCP can be shown - divided into four separate HCP ranges - at the 1-level (assuming no interference).
 - All unbalanced hands with ca. 11-19 HCP and containing at least one 4-card or longer major suit are opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening), even if they have a longer (or equal length) minor suit.
 - All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit are opened [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening).
 
-Specifically, the 1-level openings bids are as follows (where g12 means "good 12" and b12 means "bad 12"):
+Specifically, the 1-level openings bids are as follows:
 
-- [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) shows a balanced hand with g12-14 HCP. This bid is not forcing.
+- [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) shows a balanced hand with 13-15 HCP. (By partnership agreement, the best 12 HCP balanced hands can also be included.) This bid is not forcing.
 - [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) shows an unbalanced hand (or occasionally 5332) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts. It might have a longer (or equal length) minor suit. This bid is not forcing.
 - [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) shows an unbalanced hand (or occasionally 5332) with ca. 11-19 HCP and with 4+ hearts. It might have a longer (or equal length) spade suit and/or a longer (or equal length) minor suit. This bid is not forcing.
-- [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening) shows a balanced hand with either 10-b12 HCP or 15-17 HCP. This bid is forcing (with one exception).
-- [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening) shows either an unbalanced hand with ca. 11-19 HCP and without a 4-card or longer major - or a balanced hand with 18-19 HCP. This bid is forcing.
+- [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening) shows a balanced hand with either 10-12 HCP or 16-18 HCP. (As noted above, by partnership agreement, the best 12 HCP balanced hands can be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) instead.) This bid is forcing (with one exception).
+- [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#1C_opening) shows either an unbalanced hand with ca. 11-19 HCP and without a 4-card or longer major - or a balanced hand with 19-21 HCP. This bid is forcing.
 
 # <a name="Opening_bids"> Opening bids
 
@@ -46,17 +46,19 @@ Specifically, the 1-level openings bids are as follows (where g12 means "good 12
 
 ### <a name="1NT_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
 
-All balanced (4333, 4432, and 5332) hands with g12-14 HCP (where g12 means "good 12") should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) - except that a 5332 hand with a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
+All balanced (4333, 4432, and 5332) hands with 13-15 HCP should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) - except that a 5332 hand with a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
 A 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid is not forcing.
 
+By partnership agreement, you might also open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)) with the best balanced 12 HCP hands.
+
 ##### Some examples
 
-A balanced hand with 13 HCP and scattered honours that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+A balanced hand with 14 HCP and scattered honours that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)84![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AQJ6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J932![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ7 -- balanced (_2_=_**4**_=_**4**_=3) | 13 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)84![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AQJ6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q932![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ7 -- balanced (_2_=_**4**_=_**4**_=3) | 14 HCP
 
-A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)) by partnership agreement:
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J84![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AJT97 -- balanced (_2_=3=3=**5**) | 12 HCP
 
@@ -64,13 +66,13 @@ A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates 
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QJ2![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J82![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QJ63![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ5 -- balanced (3=3=_**4**_=3) | 12 HCP
 
-A balanced hand with 14 HCP and a 5-card major that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+A balanced hand with 15 HCP and a 5-card major that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AT![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)QJ763![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K98 -- balanced (_2_=**5**=3=3) | 14 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AJ![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)QJ763![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K98 -- balanced (_2_=**5**=3=3) | 15 HCP
 
-A balanced hand with 12 HCP and values concentrated in the 5-card major that could be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening):
+A balanced hand with 13 HCP and values concentrated in the 5-card major that could be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AKQJ9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)43![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J62![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)J76 -- balanced (**5**=_2_=3=3) | 12 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AKQJ9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)43![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)762![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)QJ2 -- balanced (**5**=_2_=3=3) | 13 HCP
 
 #### <a name="Responses_to_1NT_opening"> Responses to 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
 
@@ -116,15 +118,15 @@ _Details to follow..._
 
 ### <a name="1D_opening"> 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
-All balanced (4333, 4432, and 5332) hands with either 10-b12 HCP (where b12 means "bad 12") or 15-17 HCP should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - except that a 5332 hand with 15-17 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
+All balanced (4333, 4432, and 5332) hands with either 10-12 HCP or 16-18 HCP should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - except that a 5332 hand with 16-18 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
-(A 5332 hand with 10-b12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
+(A 5332 hand with 10-12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
-A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 15-17 HCP hand - ca. 7 HCP or less - with 5+ diamonds, they can pass.
+A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - with 5+ diamonds, they can pass.
 
-(See [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 7 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 7 HCP or less and no 5+ card suit.)
+(See [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 6 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 6 HCP or less and no 5+ card suit.)
 
-By partnership agreement, you might decide only to open the 10-b12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability.
+By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) instead with the best balanced 12 HCP hands.
 
 ##### Some examples
 
@@ -132,29 +134,37 @@ A balanced hand with 10 HCP that should be opened 1![D](https://raw.githubuserco
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A7![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)QJ5![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J9872![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)Q54 -- balanced (_2_=3=**5**=3) | 10 HCP
 
-A balanced hand with 16 HCP that should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
+A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A974![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)Q9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AK87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)QJ3 -- balanced (_**4**_=_2_=_**4**_=3) | 16 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QJ2![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J82![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QJ63![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ5 -- balanced (3=3=_**4**_=3) | 12 HCP
+
+A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) instead by partnership agreement:
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J84![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AJT97 -- balanced (_2_=3=3=**5**) | 12 HCP
+
+A balanced hand with 17 HCP that should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AJ74![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)Q9![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AK87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)QJ3 -- balanced (_**4**_=_2_=_**4**_=3) | 17 HCP
 
 #### <a name="Relay_response_to_1D_opening"> Relay response to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
-When responder has ca. 8+ HCP - or ca. 7 HCP or less and no 5+ card suit - they should make a relay response of 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+When responder has ca. 7+ HCP - or ca. 6 HCP or less and no 5+ card suit - they should make a relay response of 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
 
-(If they have invitational strength if opener has a 10-b12 HCP hand - ca. g13-14 HCP - and a balanced hand without a 4-card or longer major, they should prefer a [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#1NT_response_to_1D_opening) instead.)
+(If they have invitational strength if opener has a 10-12 HCP hand - ca. 13-14 HCP - and a balanced hand without a 4-card or longer major, they should prefer a [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#1NT_response_to_1D_opening) instead.)
 
-If opener has a 10-b12 HCP hand, they should rebid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Responder then rebids as follows:
+If opener has a 10-12 HCP hand, they should rebid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Responder then rebids as follows:
 
-- With ca. 7 HCP or less and no 5+ card suit, they should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
-- With a less-than-invitational hand - ca. 8-b13 HCP - and no 5+ card major (or 6+ card minor) - they should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
+- With ca. 6 HCP or less and no 5+ card suit, they should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
+- With a less-than-invitational hand - ca. 8-12 HCP - and no 5+ card major (or 6+ card minor) - they should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
     - With a less-than-invitational hand and a 5+ card major, they should transfer - as over a 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid - and pass opener's forced rebid.
     - With a less-than-invitational hand and a 6+ card minor, they can transfer and pass opener's forced rebid if they feel that 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) will be better than 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
-- Otherwise, responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 10-b12 HCP, not g12-14 HCP).
+- Otherwise, responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 10-12 HCP, not 13-15 HCP).
 
-If opener has a 15-17 HCP hand, they should rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 15-17 HCP, not g12-14 HCP).
+If opener has a 16-18 HCP hand, they should rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 16-18 HCP, not 13-15 HCP).
 
 #### <a name="Weak_transfer_responses_to_1D_opening"> Weak transfer responses to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
-When responder has less-than-invitational strength even if opener has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ cards in a suit other than diamonds, they can make a weak transfer response and then pass opener's forced rebid, as follows:
+When responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - and has 5+ cards in a suit other than diamonds, they can make a weak transfer response and then pass opener's forced rebid, as follows:
 
 - With 5+ clubs, they respond 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and opener is forced to rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 - With 5+ hearts, they respond 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) and opener is forced to rebid 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
@@ -168,30 +178,30 @@ As mentioned above, with 5+ diamonds, responder can just pass the 1![D](https://
 
 A less-than-invitational hand with 5+ clubs that should make a weak transfer response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), then pass opener's forced 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) rebid:
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QJ7![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)95![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)742![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K9852 -- balanced (3=_2_=3=**5**) | 6 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QT7![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)95![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)742![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K9852 -- balanced (3=_2_=3=**5**) | 5 HCP
 
 #### <a name="1NT_response_to_1D_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening
 
-When responder has invitational strength if opener has a 10-b12 HCP hand - ca. g13-14 HCP - and a balanced hand (usually without a 4-card or longer major), they can invite game by responding 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+When responder has invitational strength if opener has a 10-12 HCP hand - ca. 13-14 HCP - and a balanced hand (usually without a 4-card or longer major), they can invite game by responding 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
 (When responder has a 4-card or longer major, they should generally prefer to relay with 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and then make a Stayman or transfer bid.)
 
-If opener has a 10-b12 HCP hand, they should rebid 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) with a maximum and pass otherwise.
+If opener has a 10-12 HCP hand, they should rebid 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) with a maximum and pass otherwise.
 
 If opener has a 15-17 HCP hand, they should rebid 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (or explore for a thin slam).
 
 ##### An example
 
-A balanced hand (without a 4-card or longer major) with invitational strength if opener has a 10-b12 HCP hand that should respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
+A balanced hand (without a 4-card or longer major) with invitational strength if opener has a 10-12 HCP hand that should respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J94![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AK3![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)KQT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T98 -- balanced (3=3=_**4**_=3) | 13 HCP
 
 
 ### <a name="1C_opening"> 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 18-19 HCP - are opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 19-21 HCP - are opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 
-(As usual, a 5332 hand with 18-19 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy".)
+(As usual, a 5332 hand with 19-21 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#1H_opening) if it does not feel "no-trumpy" - though with 19-21 HCP, that is unlikely.)
 
 A 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening bid is forcing.
 
@@ -209,9 +219,9 @@ A strong unbalanced hand with long clubs that should be opened 1![C](https://raw
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)KQ3![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)8![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q43![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AKQ842 -- unbalanced (3=_1_=3=**6**) | 16 HCP
 
-A balanced hand with 18 HCP that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+A balanced hand with 19 HCP that should be opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
 
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A765![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)KQ2![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QJ65![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQ -- balanced (_**4**_=3=_**4**_=_2_) | 18 HCP
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A765![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)KQ2![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)KJ65![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQ -- balanced (_**4**_=3=_**4**_=_2_) | 19 HCP
 
 #### <a name="Negative_response_to_1C_opening"> Negative response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
@@ -227,6 +237,7 @@ Opener rebids as follows:
     - With 6+ spades (therefore at least a 7-card fit) and no 9-card or longer minor suit fit, they bid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Opener must pass.
     - With at least a 7-card fit in one or both minors, they bid the longer fit (i.e. 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)). Opener must pass.
     - Otherwise, they bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
+- With a balanced hand and 19-21 HCP, they rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Responder will often pass, though they can use garbage Stayman or transfers (as over a 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid) as appropriate - or even invite game (via Stayman or a transfer) with 4-5 HCP.
 - With 6+ clubs, they rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). Responder must pass.
 
 #### <a name="Positive_response_to_1C_opening"> Positive response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
@@ -237,8 +248,8 @@ Opener rebids as follows:
 
 - With both minor suits (at least 5-4) and minimum strength, they rebid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
     - Responder can then relay with 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask opener to rebid their longer (or stronger if equal length) minor at the 2-level - or, if short in both minors, improvise some other bid.
-- With a balanced (4333, 4432, and 5332) hand and 18-19 HCP, they rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
-    - Responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 18-19 HCP, not g12-14 HCP).
+- With a balanced (4333, 4432, and 5332) hand and 19-21 HCP, they rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+    - Responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 18-19 HCP, not 13-15 HCP).
 - With 6+ clubs and mininum strength, they rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 - With 6+ diamonds and mininum strength, they rebid 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
 - With both minor suits (at least 5-4) and a strong hand, they rebid 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).

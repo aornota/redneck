@@ -1,6 +1,6 @@
 #### <a name="Weak_transfer_responses_to_1D_opening"> Weak transfer responses to {1D} opening
 
-When responder has less-than-invitational strength even if opener has a 15-17 HCP hand - ca. 7 HCP or less - and has 5+ cards in a suit other than diamonds, they can make a weak transfer response and then pass opener's forced rebid, as follows:
+When responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - and has 5+ cards in a suit other than diamonds, they can make a weak transfer response and then pass opener's forced rebid, as follows:
 
 - With 5+ clubs, they respond {1S} and opener is forced to rebid {2C}.
 - With 5+ hearts, they respond {2D} and opener is forced to rebid {2H}.
@@ -14,4 +14,4 @@ As mentioned above, with 5+ diamonds, responder can just pass the {1D} opening b
 
 A less-than-invitational hand with 5+ clubs that should make a weak transfer response of {1S}, then pass opener's forced {2C} rebid:
 
-> {| s:QJ7 h:95 d:742 c:K9852 --shape --hcp |}
+> {| s:QT7 h:95 d:742 c:K9852 --shape --hcp |}
