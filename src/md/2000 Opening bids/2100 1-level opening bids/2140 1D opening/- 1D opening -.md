@@ -8,7 +8,7 @@ A {1D} opening bid is forcing, with one exception: when responder has less-than-
 
 (See [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 6 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 6 HCP or less and no 5+ card suit.)
 
-By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open {1NT} instead with the best balanced 12 HCP hands.
+By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open {1NT} instead with the best 12 HCP balanced hands.
 
 ##### Some examples
 

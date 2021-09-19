@@ -50,7 +50,7 @@ All balanced (4333, 4432, and 5332) hands with 13-15 HCP should be opened 1![NT]
 
 A 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid is not forcing.
 
-By partnership agreement, you might also open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)) with the best balanced 12 HCP hands.
+By partnership agreement, you might also open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)) with the best 12 HCP balanced hands.
 
 ##### Some examples
 
@@ -126,7 +126,7 @@ A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.p
 
 (See [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 6 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 6 HCP or less and no 5+ card suit.)
 
-By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) instead with the best balanced 12 HCP hands.
+By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) instead with the best 12 HCP balanced hands.
 
 ##### Some examples
 
