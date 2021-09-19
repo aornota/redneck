@@ -4,11 +4,11 @@ All balanced (4333, 4432, and 5332) hands with either 10-12 HCP or 16-18 HCP sho
 
 (A 5332 hand with 10-12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened {1D}.)
 
-A {1D} opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - with 5+ diamonds, they can pass.
+A {1D} opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - and has 5+ diamonds, they can pass.
 
 (See [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 6 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 6 HCP or less and no 5+ card suit.)
 
-By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open {1NT} instead with the best 12 HCP balanced hands.
+By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open [{1NT}](#1NT_opening) instead with the best 12 HCP balanced hands.
 
 ##### Some examples
 

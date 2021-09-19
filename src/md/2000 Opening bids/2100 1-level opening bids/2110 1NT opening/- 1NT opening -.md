@@ -4,7 +4,7 @@ All balanced (4333, 4432, and 5332) hands with 13-15 HCP should be opened {1NT} 
 
 A {1NT} opening bid is not forcing.
 
-By partnership agreement, you might also open {1NT} (rather than {1D}) with the best 12 HCP balanced hands.
+By partnership agreement, you might also open {1NT} (rather than [{1D}](#1D_opening)) with the best 12 HCP balanced hands.
 
 ##### Some examples
 
@@ -24,7 +24,7 @@ A balanced hand with 15 HCP and a 5-card major that should be opened {1NT}:
 
 > {| s:AJ h:QJ763 d:AT2 c:K98 --shape --hcp |}
 
-A balanced hand with 13 HCP and values concentrated in the 5-card major that could be opened [{1S}](#1S_opening):
+A balanced hand with 13 HCP and values concentrated in the 5-card major that could be opened [{1S}](#1S_opening) instead:
 
 > {| s:AKQJ9 h:43 d:762 c:QJ2 --shape --hcp |}
 

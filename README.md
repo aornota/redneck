@@ -50,7 +50,7 @@ All balanced (4333, 4432, and 5332) hands with 13-15 HCP should be opened 1![NT]
 
 A 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid is not forcing.
 
-By partnership agreement, you might also open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)) with the best 12 HCP balanced hands.
+By partnership agreement, you might also open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening)) with the best 12 HCP balanced hands.
 
 ##### Some examples
 
@@ -70,7 +70,7 @@ A balanced hand with 15 HCP and a 5-card major that should be opened 1![NT](http
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AJ![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)QJ763![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)AT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)K98 -- balanced (_2_=**5**=3=3) | 15 HCP
 
-A balanced hand with 13 HCP and values concentrated in the 5-card major that could be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening):
+A balanced hand with 13 HCP and values concentrated in the 5-card major that could be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#1S_opening) instead:
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AKQJ9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)43![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)762![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)QJ2 -- balanced (**5**=_2_=3=3) | 13 HCP
 
@@ -122,11 +122,11 @@ All balanced (4333, 4432, and 5332) hands with either 10-12 HCP or 16-18 HCP sho
 
 (A 5332 hand with 10-12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should only be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
-A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - with 5+ diamonds, they can pass.
+A 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) opening bid is forcing, with one exception: when responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - and has 5+ diamonds, they can pass.
 
 (See [weak transfer responses](#Weak_transfer_responses_to_1D_opening) for when responder has ca. 6 HCP or less and a different 5+ card suit - and [relay response](#Relay_response_to_1D_opening) for when responder has ca. 6 HCP or less and no 5+ card suit.)
 
-By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) instead with the best 12 HCP balanced hands.
+By partnership agreement, you might decide only to open the 10-12 HCP hands in some circumstances, e.g. only when non-vulnerable or only at favourable vulnerability. You might also decide to open [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) instead with the best 12 HCP balanced hands.
 
 ##### Some examples
 
