@@ -58,7 +58,7 @@ A balanced hand with 14 HCP and scattered honours that should be opened 1![NT](h
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)84![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)AQJ6![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q932![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ7 -- balanced (_2_=_**4**_=_**4**_=3) | 14 HCP
 
-A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)) by partnership agreement:
+A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) by partnership agreement:
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J84![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AJT97 -- balanced (_2_=3=3=**5**) | 12 HCP
 

@@ -12,7 +12,7 @@ A balanced hand with 14 HCP and scattered honours that should be opened {1NT}:
 
 > {| s:84 h:AQJ6 d:Q932 c:KQ7 --shape --hcp |}
 
-A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened {1NT} (rather than {1D}) by partnership agreement:
+A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened {1NT} by partnership agreement:
 
 > {| s:A9 h:J84 d:QT2 c:AJT97 --shape --hcp |}
 
