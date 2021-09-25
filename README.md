@@ -220,9 +220,9 @@ If minimum, opener rebids as follows:
 - 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a single-suited hand with 6+ spades.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows diamonds (at least 5-4 or 4-5 in spades and diamonds).
 
-Note that - unlike after a [relay response to a 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid](#Relay_response_to_1H_opening) - opener's rebids are often unnatural (i.e. not showing 4+ cards in the suit bid). Therefore opener's immediate 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) rebids hould be treated as semi-forcing (albeit responder will occasionally decide to pass with an appropriate hand).
+Note that - unlike after a [relay response to a 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid](#Relay_response_to_1H_opening) - opener's rebids are often unnatural (i.e. not showing 4+ cards in the suit bid). Therefore opener's immediate 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) rebids should be treated as semi-forcing (albeit responder will occasionally decide to pass with an appropriate hand).
 
-If strong, opener rebids as above but a level higher; this establishes a game-force.
+If strong, opener rebids as above but a level higher; which establishes a game-force.
 
 ##### Some examples
 
@@ -382,7 +382,7 @@ If minimum, opener rebids as follows:
 
 Note that other than the 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) rebid (which forces responder to relay with 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)), opener's rebids are natural - showing 4+ cards in the suit bid - and non-forcing.
 
-If strong, opener rebids as above but a level higher; this establishes a game-force.
+If strong, opener rebids as above but a level higher, which establishes a game-force.
 
 ##### Some examples
 

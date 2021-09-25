@@ -12,9 +12,9 @@ If minimum, opener rebids as follows:
 - {2S} shows a single-suited hand with 6+ spades.
 - {2NT} shows diamonds (at least 5-4 or 4-5 in spades and diamonds).
 
-Note that - unlike after a [relay response to a {1H} opening bid](#Relay_response_to_1H_opening) - opener's rebids are often unnatural (i.e. not showing 4+ cards in the suit bid). Therefore opener's immediate {2H} and {2NT} rebids hould be treated as semi-forcing (albeit responder will occasionally decide to pass with an appropriate hand).
+Note that - unlike after a [relay response to a {1H} opening bid](#Relay_response_to_1H_opening) - opener's rebids are often unnatural (i.e. not showing 4+ cards in the suit bid). Therefore opener's immediate {2H} and {2NT} rebids should be treated as semi-forcing (albeit responder will occasionally decide to pass with an appropriate hand).
 
-If strong, opener rebids as above but a level higher; this establishes a game-force.
+If strong, opener rebids as above but a level higher; which establishes a game-force.
 
 ##### Some examples
 

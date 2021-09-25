@@ -17,7 +17,7 @@ If minimum, opener rebids as follows:
 
 Note that other than the {1NT} rebid (which forces responder to relay with {2C}), opener's rebids are natural - showing 4+ cards in the suit bid - and non-forcing.
 
-If strong, opener rebids as above but a level higher; this establishes a game-force.
+If strong, opener rebids as above but a level higher, which establishes a game-force.
 
 ##### Some examples
 
