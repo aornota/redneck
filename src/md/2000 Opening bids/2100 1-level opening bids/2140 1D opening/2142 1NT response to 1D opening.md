@@ -2,7 +2,7 @@
 
 When responder has invitational strength if opener has a 10-12 HCP hand - ca. 13-14 HCP - and a balanced hand (usually without a 4-card or longer major), they can invite game by responding {1NT}.
 
-(When responder has a 4-card or longer major, they should generally prefer to relay with {1H} and then make a Stayman or transfer bid.)
+(When responder has a 4-card or longer major, they should generally prefer to make a [relay response](#Relay_response_to_1D_opening) instead, then make a Stayman or transfer bid.)
 
 If opener has a 10-12 HCP hand, they should rebid {3NT} with a maximum and pass otherwise.
 
