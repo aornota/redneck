@@ -248,6 +248,7 @@ When responder has ca. 6-9 HCP and fewer than 4 hearts, they should make a non-f
 (Note that this response does not promise a balanced hand.)
 
 If opener has a strong and/or very unbalanced hand, they can rebid as follows:
+
     - 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promise 5+ cards in that suit.
     - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promises 6+ hearts.
     - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
