@@ -1,6 +1,6 @@
-#### <a name="Positive_response_to_1C_opening"> Positive response to {1C} opening
+#### <a name="Relay_response_to_1C_opening"> Relay response to {1C} opening
 
-When responder has ca. 6+ HCP, they should make a positive response of {1H}.
+When responder has ca. 6+ HCP, they should make a relay response of {1H}.
 
 Opener rebids as follows:
 

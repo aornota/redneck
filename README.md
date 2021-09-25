@@ -26,7 +26,7 @@
     * [1C opening](#1C_opening)
       * [_Weak jump responses to 1C opening_](#Weak_jump_responses_to_1C_opening)
       * [_Negative response to 1C opening_](#Negative_response_to_1C_opening)
-      * [_Positive response to 1C opening_](#Positive_response_to_1C_opening)
+      * [_Relay response to 1C opening_](#Relay_response_to_1C_opening)
 
 # <a name="Introduction"> Introduction
 
@@ -208,11 +208,11 @@ _Coming soon..._
 
 When responder has 4+ hearts, ca. 13+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
-(However, by partnership agreement, a strong responder might prefer a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
-
 - 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a singleton or void in spades.
 - 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows a singleton or void in clubs.
 - 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a singleton or void in diamonds.
+
+(However, by partnership agreement, a strong responder might prefer a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
 
 ##### Some examples
 
@@ -221,8 +221,20 @@ _Coming soon..._
 
 #### <a name="Relay_response_to_1H_opening"> Relay response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-_Details to follow..._
+When has an invitational-or-better hand - ca. 10+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 
+If minimum, opener rebids as follows:
+
+- 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows either a three-suited hand (4441 or 5440) or a 5322 hand.
+    -
+- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows clubs (at least 5-4 or 4-5 in hearts and clubs).
+- 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows diamonds (at least 5-4 or 4-5 in hearts and diamonds).
+- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows a single-suited hand with 6+ hearts.
+- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows spades (at least 5-4 or 4-5 in hearts and spades).
+
+(Note that other than opener's 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) rebid, their rebids are natural - showing 4+ cards in the suit - and non-forcing.)
+
+If strong, opener rebids as above but a level higher; this establishes a game-force.
 
 ##### Some examples
 
@@ -367,7 +379,7 @@ If responder has a weak hand with a long suit (ideally 7+ cards) - such that the
 
 If responder has a weak hand - ca. 5 HCP of less - and no long suit, they should make a [negative response](#Negative_response_to_1C_opening).
 
-If responder has ca. 6+ HCP, they should make a [positive response](#Positive_response_to_1C_opening).
+If responder has ca. 6+ HCP, they should make a [relay response](#Relay_response_to_1C_opening).
 
 #### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
@@ -400,9 +412,9 @@ Opener rebids as follows:
 - With a balanced hand and 19-21 HCP, they rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Responder will often pass, though they can use garbage Stayman or transfers (as over a 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid) as appropriate - or even invite game (via Stayman or a transfer) with 4-5 HCP.
 - With 6+ clubs, they rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). Responder must pass.
 
-#### <a name="Positive_response_to_1C_opening"> Positive response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+#### <a name="Relay_response_to_1C_opening"> Relay response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-When responder has ca. 6+ HCP, they should make a positive response of 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+When responder has ca. 6+ HCP, they should make a relay response of 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
 
 Opener rebids as follows:
 

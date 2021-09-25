@@ -2,11 +2,11 @@
 
 When responder has 4+ hearts, ca. 13+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
-(However, by partnership agreement, a strong responder might prefer a [Jacoby {2NT} response](#Jacoby_2NT_response_to_1H_opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
-
 - {3S} shows a singleton or void in spades.
 - {4C} shows a singleton or void in clubs.
 - {4D} shows a singleton or void in diamonds.
+
+(However, by partnership agreement, a strong responder might prefer a [Jacoby {2NT} response](#Jacoby_2NT_response_to_1H_opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
 
 ##### Some examples
 
