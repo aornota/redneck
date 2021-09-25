@@ -28,6 +28,12 @@ A balanced hand with 13 HCP and values concentrated in the 5-card major that cou
 
 > {| s:AKQJ9 h:43 d:762 c:QJ2 --shape --hcp |}
 
-{file:2110 Responses to 1NT opening.md}
+#### Responses to {1S} opening
+
+These are all fairly standard: Stayman; transfers; quantitative; and so on.
+
+_Details to follow..._
+
+// TODO-NMB...{file:2110 Responses to 1NT opening.md}
 
 // TODO-NMB...{file:2190 Coping with interference after 1NT opening.md}

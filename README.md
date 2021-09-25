@@ -7,7 +7,6 @@
 * [**Introduction**](#Introduction)
 * [**1-level opening bids**](#1-level_opening_bids)
   * [_**1NT opening**_](#1NT_opening)
-    * [Responses to 1NT opening](#Responses_to_1NT_opening)
   * [_**1S opening**_](#1S_opening)
     * [Weak jump responses to 1S opening](#Weak_jump_responses_to_1S_opening)
     * [Pre-emptive responses to 1S opening](#Pre-emptive_responses_to_1S_opening)
@@ -83,11 +82,12 @@ A balanced hand with 13 HCP and values concentrated in the 5-card major that cou
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AKQJ9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)43![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)762![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)QJ2 -- balanced (**5**=_2_=3=3) | 13 HCP
 
-### <a name="Responses_to_1NT_opening"> Responses to 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
+#### Responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
 These are all fairly standard: Stayman; transfers; quantitative; and so on.
 
 _Details to follow..._
+
 
 
 ## <a name="1S_opening"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
