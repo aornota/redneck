@@ -15,7 +15,7 @@ If minimum, opener rebids as follows:
 - {2H} shows a single-suited hand with 6+ hearts.
 - {2S} shows spades (at least 5-4 or 4-5 in hearts and spades).
 
-(Note that other than opener's {1NT} rebid, their rebids are natural - showing 4+ cards in the suit - and non-forcing.)
+Note that other than the {1NT} rebid (which forces responder to relay with {2C}), opener's rebids are natural - showing 4+ cards in the suit bid - and non-forcing.
 
 If strong, opener rebids as above but a level higher; this establishes a game-force.
 

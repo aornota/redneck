@@ -6,7 +6,7 @@ When responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should m
 - With 5+ hearts - and ideally a singleton or void when vulnerable - they should bid {3H}.
 - With exactly 4 hearts - or 5+ but no singleton or void - they should bid {2H}.
 
-However, with a very weak hand, exactly 4 hearts, and no singleton or void, they should usually pass.
+(However, with a very weak hand, exactly 4 hearts, and no singleton or void, they should usually pass.)
 
 Opener will usually pass the pre-emptive raise; with a strong hand, they might be able to bid {4H} - or, if interested in game following a {2H} response, they can:
 

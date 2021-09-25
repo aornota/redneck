@@ -6,6 +6,6 @@ Opener should usually pass, though may choose to do otherwise with a strong hand
 
 ##### An example
 
-A very weak hand with long diamonds that should make a weak "jump" response of {1D}:
+A very weak hand with long diamonds that should make a weak "jump" response of {2D}:
 
 > {| s:T8 h:5 d:Q975432 c:T52 --shape --hcp |}
