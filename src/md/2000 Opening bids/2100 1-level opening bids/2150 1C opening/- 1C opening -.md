@@ -24,10 +24,18 @@ A balanced hand with 19 HCP that should be opened {1C}:
 
 > {| s:A765 h:KQ2 d:KJ65 c:AQ --shape --hcp |}
 
-{file:2151 Negative response to 1C opening.md}
+#### Responses to {1C} opening
 
-{file:2152 Positive response to 1C opening.md}
+With a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - responder should make a [weak "jump" response](#Weak_jump_responses_to_1C_opening).
 
-{file:2153 Weak jump responses to 1C opening.md}
+With a weak hand - ca. 5 HCP of less - and no long suit, responder should make a [negative response](#Negative_response_to_1C_opening).
+
+With ca. 6+ HCP, responder should make a [positive response](#Positive_response_to_1C_opening).
+
+{file:2151 Weak jump responses to 1C opening.md}
+
+{file:2152 Negative response to 1C opening.md}
+
+{file:2153 Positive response to 1C opening.md}
 
 // TODO-NMB...{file:2159 Coping with interference after 1C opening.md}

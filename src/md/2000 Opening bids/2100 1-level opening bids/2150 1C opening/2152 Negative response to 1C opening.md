@@ -1,8 +1,6 @@
 #### <a name="Negative_response_to_1C_opening"> Negative response to {1C} opening
 
-When responder has a very weak hand - ca. 5 HCP or less - they should usually make a negative response of {1D}.
-
-(If they have a long suit - ideally 7+ cards - they should prefer a [weak "jump" response](#Weak_jump_responses_to_1C_opening) instead.)
+When responder has a very weak hand - ca. 5 HCP or less - and no long suit, they should make a negative response of {1D}.
 
 Opener rebids as follows:
 

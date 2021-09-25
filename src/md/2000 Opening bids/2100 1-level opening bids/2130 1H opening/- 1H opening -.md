@@ -10,6 +10,8 @@ A {1H} opening bid is not forcing.
 
 _Coming soon..._
 
+// TODO-NMB...{| s: h: d:- c: --shape --hcp |}
+
 {file:2131 Responses to 1H opening.md}
 
 // TODO-NMB...{file:2139 Coping with interference after 1H opening.md}

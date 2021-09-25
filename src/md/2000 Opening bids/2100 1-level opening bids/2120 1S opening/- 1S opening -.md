@@ -10,7 +10,7 @@ A {1S} opening bid is not forcing.
 
 _Coming soon..._
 
-// TODO-NMB...{| s:AK63 h:T42 d:- c:AQJT62 --shape --hcp |}
+// TODO-NMB...{| s: h: d:- c: --shape --hcp |}
 
 {file:2121 Responses to 1S opening.md}
 

@@ -18,9 +18,9 @@
       * [_Weak transfer responses to 1D opening_](#Weak_transfer_responses_to_1D_opening)
       * [_1NT response to 1D opening_](#1NT_response_to_1D_opening)
     * [1C opening](#1C_opening)
+      * [_Weak jump responses to 1C opening_](#Weak_jump_responses_to_1C_opening)
       * [_Negative response to 1C opening_](#Negative_response_to_1C_opening)
       * [_Positive response to 1C opening_](#Positive_response_to_1C_opening)
-      * [_Weak jump responses to 1C opening_](#Weak_jump_responses_to_1C_opening)
 
 # <a name="Introduction"> Introduction
 
@@ -110,6 +110,7 @@ A 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.p
 ##### Some examples
 
 _Coming soon..._
+
 
 #### <a name="Responses_to_1H_opening"> Responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
@@ -223,11 +224,33 @@ A balanced hand with 19 HCP that should be opened 1![C](https://raw.githubuserco
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A765![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)KQ2![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)KJ65![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQ -- balanced (_**4**_=3=_**4**_=_2_) | 19 HCP
 
+#### Responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+With a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - responder should make a [weak "jump" response](#Weak_jump_responses_to_1C_opening).
+
+With a weak hand - ca. 5 HCP of less - and no long suit, responder should make a [negative response](#Negative_response_to_1C_opening).
+
+With ca. 6+ HCP, responder should make a [positive response](#Positive_response_to_1C_opening).
+
+#### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+When responder has a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they should make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note that 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
+
+Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long minor will be better).
+
+##### Some examples
+
+A very weak hand with long spades that should make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QT87542![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)32![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J3![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)96 -- unbalanced (**7**=_2_=_2_=_2_) | 3 HCP
+
+A weak hand with strength concentrated in the long suit that should make a weak "jump" response of 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J32![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)64![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQT975 -- semi-balanced (3=_2_=_2_=**6**) | 6 HCP
+
 #### <a name="Negative_response_to_1C_opening"> Negative response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-When responder has a very weak hand - ca. 5 HCP or less - they should usually make a negative response of 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
-
-(If they have a long suit - ideally 7+ cards - they should prefer a [weak "jump" response](#Weak_jump_responses_to_1C_opening) instead.)
+When responder has a very weak hand - ca. 5 HCP or less - and no long suit, they should make a negative response of 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
 
 Opener rebids as follows:
 
@@ -256,15 +279,3 @@ Opener rebids as follows:
     - Responder can then relay with 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask opener to rebid their longer (or stronger if equal length) minor at the 3-level - or, if short in both minors, improvise some other bid.
 - With 6+ clubs and a strong hand, they rebid 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 - With 6+ diamonds and a strong hand, they rebid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
-
-#### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
-
-When responder has a very weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they can make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note that 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
-
-Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long minor will be better).
-
-##### An example
-
-A very weak hand with long spades that should make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png):
-
-> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QT87542![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)32![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J3![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)96 -- unbalanced (**7**=_2_=_2_=_2_) | 3 HCP
