@@ -168,10 +168,19 @@ Opener will usually pass the pre-emptive raise; with a strong hand, they might b
 _Coming soon..._
 
 
-
 #### <a name="Bergen_responses_to_1H_opening"> Bergen responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-_Details to follow..._
+When responder has 4+ hearts and ca. 7-12 HCP, they bid as follows:
+
+- With 7-9 HCP, they bid 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+    - Opener can rebid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) to invite game (with responder signing-off in 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)), sign-off in 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), or explore for slam.
+- With 10-12 HCP, they bid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
+    - Opener can sign-off in 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), or explore for slam.
+
+##### Some examples
+
+_Coming soon..._
+
 
 #### <a name="Jacoby_2NT_response_to_1H_opening"> Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 

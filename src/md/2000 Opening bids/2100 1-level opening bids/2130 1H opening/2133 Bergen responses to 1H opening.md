@@ -1,3 +1,14 @@
 #### <a name="Bergen_responses_to_1H_opening"> Bergen responses to {1H} opening
 
-_Details to follow..._
+When responder has 4+ hearts and ca. 7-12 HCP, they bid as follows:
+
+- With 7-9 HCP, they bid {3C}.
+    - Opener can rebid {3D} to invite game (with responder signing-off in {3H} or {4H}), sign-off in {3H} or {4H}, or explore for slam.
+- With 10-12 HCP, they bid {3D}.
+    - Opener can sign-off in {3H} or {4H}, or explore for slam.
+
+##### Some examples
+
+_Coming soon..._
+
+// TODO-NMB...{| s: h: d:- c: --shape --hcp |}

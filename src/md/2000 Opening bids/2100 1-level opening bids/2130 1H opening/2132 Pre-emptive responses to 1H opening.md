@@ -20,4 +20,3 @@ Opener will usually pass the pre-emptive raise; with a strong hand, they might b
 _Coming soon..._
 
 // TODO-NMB...{| s: h: d:- c: --shape --hcp |}
-
