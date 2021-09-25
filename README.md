@@ -60,7 +60,7 @@ A 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT
 
 By partnership agreement, you might also open 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) (rather than [1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)](#1D_opening)) with the best 12 HCP balanced hands.
 
-#### Some examples
+##### Some examples
 
 A balanced hand with 14 HCP and scattered honours that should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png):
 

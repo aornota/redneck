@@ -6,7 +6,7 @@ A {1NT} opening bid is not forcing.
 
 By partnership agreement, you might also open {1NT} (rather than [{1D}](#1D_opening)) with the best 12 HCP balanced hands.
 
-#### Some examples
+##### Some examples
 
 A balanced hand with 14 HCP and scattered honours that should be opened {1NT}:
 
