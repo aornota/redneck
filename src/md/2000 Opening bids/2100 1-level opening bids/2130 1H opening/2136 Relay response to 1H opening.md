@@ -5,7 +5,7 @@ When responder has an invitational-or-better hand - ca. 10+ HCP - and fewer than
 If minimum, opener rebids as follows:
 
 - {1NT} shows either a three-suited hand (4441 or 5440) or a 5322 hand.
-    - Responder then relays with {2C} and opener rebids:
+    - Responder then relays with {2C} and opener rebids as follows:
         - {2D} shows a three-suited hand with a singleton or void in spades.
         - {2H} shows a three-suited hand with a singleton or void in diamonds.
         - {2S} shows a three-suited hand with a singleton or void in clubs.
