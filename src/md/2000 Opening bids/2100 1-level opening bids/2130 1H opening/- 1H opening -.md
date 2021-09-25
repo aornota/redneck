@@ -16,7 +16,7 @@ _Coming soon..._
 
 If responder has a weak hand with a long suit (ideally 7+ cards) other than hearts - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak "jump" response](#Weak_jump_responses_to_1H_opening).
 
-If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#Pre-emptive_responses_to_1H_opening).
+If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#Pre-emptive_responses_to_1H_opening) (or pass with a very weak hand with exactly 4 hearts and no singleton or void).
 
 If responder has 4+ hearts and ca. 7-12 HCP, they should make a [Bergen response](#Bergen_responses_to_1H_opening).
 

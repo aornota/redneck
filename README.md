@@ -121,7 +121,7 @@ _Coming soon..._
 
 If responder has a weak hand with a long suit (ideally 7+ cards) other than hearts - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak "jump" response](#Weak_jump_responses_to_1H_opening).
 
-If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#Pre-emptive_responses_to_1H_opening).
+If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#Pre-emptive_responses_to_1H_opening) (or pass with a very weak hand with exactly 4 hearts and no singleton or void).
 
 If responder has 4+ hearts and ca. 7-12 HCP, they should make a [Bergen response](#Bergen_responses_to_1H_opening).
 
@@ -140,16 +140,34 @@ When responder has a weak hand with a long suit (ideally 7+ cards) other than he
 
 Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
 
-##### Some examples
+##### An example
 
 A very weak hand with long diamonds that should make a weak "jump" response of 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T8![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)5![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q975432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T52 -- very unbalanced (_2_=_1_=**7**=3) | 2 HCP
 
-
 #### <a name="Pre-emptive_responses_to_1H_opening"> Pre-emptive responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-_Details to follow..._
+When responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a pre-emptive raise in hearts:
+
+- With a "weak freak" - 6+ hearts and a singleton or void - they should bid 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+- With 5+ hearts - and ideally a singleton or void when vulnerable - they should bid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+- With exactly 4 hearts - or 5+ but no singleton or void - they should bid 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+
+However, with a very weak hand, exactly 4 hearts, and no singleton or void, they should usually pass.
+
+Opener will usually pass the pre-emptive raise; with a strong hand, they might be able to bid 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) - or, if interested in game following a 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response, they can:
+
+- Bid a new suit at the 3-level to show a weak suit where they fear too many quick losers.
+    - If responder has a 1-loser holding in the suit, they bid 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png); otherwise, they bid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+- Bid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) to show poor quality hearts (e.g. something like T9643).
+    - If responder has two honours in hearts, they bid 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png); otherwise, they pass.
+
+##### Some examples
+
+_Coming soon..._
+
+
 
 #### <a name="Bergen_responses_to_1H_opening"> Bergen responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 

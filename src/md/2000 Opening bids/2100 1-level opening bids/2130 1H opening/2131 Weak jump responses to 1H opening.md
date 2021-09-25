@@ -4,9 +4,8 @@ When responder has a weak hand with a long suit (ideally 7+ cards) other than he
 
 Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
 
-##### Some examples
+##### An example
 
 A very weak hand with long diamonds that should make a weak "jump" response of {1D}:
 
 > {| s:T8 h:5 d:Q975432 c:T52 --shape --hcp |}
-
