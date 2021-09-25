@@ -1,6 +1,6 @@
 #### <a name="Bergen_responses_to_1H_opening"> Bergen responses to {1H} opening
 
-When responder has 4+ hearts and ca. 7-12 HCP, they bid as follows:
+When responder has 4+ hearts and ca. 7-12 HCP, they shuuld bid as follows:
 
 - With 7-9 HCP, they bid {3C}. Opener can:
     - Rebid {3D} to invite game (with responder signing-off in {3H} or {4H}).
