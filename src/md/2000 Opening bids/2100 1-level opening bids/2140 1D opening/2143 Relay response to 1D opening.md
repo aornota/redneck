@@ -7,10 +7,11 @@ When responder has ca. 7+ HCP - or ca. 6 HCP or less and no 5+ card suit - they 
 If opener has a 10-12 HCP hand, they should rebid {1S}. Responder then rebids as follows:
 
 - With ca. 6 HCP or less and no 5+ card suit, they should bid {1NT}. Opener must pass.
-- With a less-than-invitational hand - ca. 7-12 HCP - and no 5+ card major (or 6+ card minor) - they should bid {1NT}. Opener must pass.
-    - With a less-than-invitational hand and 5+ spades, they should pass.
-    - With a less-than-invitational hand and 5+ hearts, they should transfer with {2D} - as over a {1NT} opening bid - and pass opener's forced {2H} rebid.
-    - With a less-than-invitational hand and a 6+ card minor, they can transfer and pass opener's forced rebid if they feel that {3D} or {3C} will be better than {1NT}.
+- With a less-than-invitational hand (ca. 7-12 HCP):
+    - With no 5+ card major (or 6+ card minor), they should bid {1NT}. Opener must pass.
+    - With 5+ spades, they should pass.
+    - With 5+ hearts, they should transfer - with {2D} - and pass opener's forced {2H} rebid.
+    - With a 6+ card minor, they can transfer - with {2S} for clubs or {2NT} for diamonds (as over a {1NT} opening bid) - and pass opener's forced rebid if they feel that {3D} or {3C} will be better than {1NT}.
 - Otherwise, responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 10-12 HCP, not 13-15 HCP).
 
 If opener has a 16-18 HCP hand, they should rebid {1NT}. Responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 16-18 HCP, not 13-15 HCP).
