@@ -10,6 +10,6 @@ A very weak hand with long spades that should make a weak "jump" response of {1S
 
 > {| s:QT87542 h:32 d:J3 c:96 --shape --hcp |}
 
-A weak hand with strength concentrated in the long suit that should make a weak "jump" response of {1C}:
+A weak hand with strength concentrated in the long suit that should make a weak "jump" response of {2C}:
 
 > {| s:J32 h:64 d:87 c:KQT975 --shape --hcp |}

@@ -244,7 +244,7 @@ A very weak hand with long spades that should make a weak "jump" response of 1![
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QT87542![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)32![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J3![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)96 -- unbalanced (**7**=_2_=_2_=_2_) | 3 HCP
 
-A weak hand with strength concentrated in the long suit that should make a weak "jump" response of 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+A weak hand with strength concentrated in the long suit that should make a weak "jump" response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J32![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)64![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQT975 -- semi-balanced (3=_2_=_2_=**6**) | 6 HCP
 
