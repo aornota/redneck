@@ -136,7 +136,16 @@ Otherwise, responder should pass.
 
 #### <a name="Weak_jump_responses_to_1H_opening"> Weak "jump" responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-_Details to follow..._
+When responder has a weak hand with a long suit (ideally 7+ cards) other than hearts, they should make a weak "jump" response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). (Note that 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) and 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) are not technically jumps over 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).)
+
+Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
+
+##### Some examples
+
+A very weak hand with long diamonds that should make a weak "jump" response of 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
+
+> ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T8![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)5![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q975432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T52 -- very unbalanced (_2_=_1_=**7**=3) | 2 HCP
+
 
 #### <a name="Pre-emptive_responses_to_1H_opening"> Pre-emptive responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
