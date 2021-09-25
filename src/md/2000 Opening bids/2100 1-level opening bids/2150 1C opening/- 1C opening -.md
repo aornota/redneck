@@ -24,7 +24,7 @@ A balanced hand with 19 HCP that should be opened {1C}:
 
 > {| s:A765 h:KQ2 d:KJ65 c:AQ --shape --hcp |}
 
-#### Responses to {1C} opening
+##### Responses to {1C} opening
 
 With a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - responder should make a [weak "jump" response](#Weak_jump_responses_to_1C_opening).
 

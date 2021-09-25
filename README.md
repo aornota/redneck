@@ -224,7 +224,7 @@ A balanced hand with 19 HCP that should be opened 1![C](https://raw.githubuserco
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A765![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)KQ2![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)KJ65![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AQ -- balanced (_**4**_=3=_**4**_=_2_) | 19 HCP
 
-#### Responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+##### Responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
 With a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - responder should make a [weak "jump" response](#Weak_jump_responses_to_1C_opening).
 
