@@ -10,6 +10,8 @@ If opener has a strong and/or very unbalanced hand, they can rebid as follows:
 - {2H} promises 6+ hearts.
 - {2NT} shows a 5332 hand.
 
+If opener is strong enough to insist on game, they rebid as above but a level higher.
+
 ##### Some examples
 
 _Coming soon..._

@@ -226,7 +226,7 @@ When has an invitational-or-better hand - ca. 10+ HCP - and fewer than 4 hearts,
 If minimum, opener rebids as follows:
 
 - 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows either a three-suited hand (4441 or 5440) or a 5322 hand.
-    -
+    - TODO-NMB...
 - 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows clubs (at least 5-4 or 4-5 in hearts and clubs).
 - 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows diamonds (at least 5-4 or 4-5 in hearts and diamonds).
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows a single-suited hand with 6+ hearts.
@@ -252,6 +252,8 @@ If opener has a strong and/or very unbalanced hand, they can rebid as follows:
 - 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promise 5+ cards in the suit bid.
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promises 6+ hearts.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
+
+If opener is strong enough to insist on game, they rebid as above but a level higher.
 
 ##### Some examples
 
