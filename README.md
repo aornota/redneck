@@ -491,7 +491,8 @@ If opener has a 10-12 HCP hand, they should rebid 1![S](https://raw.githubuserco
 
 - With ca. 6 HCP or less and no 5+ card suit, they should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
 - With a less-than-invitational hand - ca. 7-12 HCP - and no 5+ card major (or 6+ card minor) - they should bid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png). Opener must pass.
-    - With a less-than-invitational hand and a 5+ card major, they should transfer - as over a 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid - and pass opener's forced rebid.
+    - With a less-than-invitational hand and 5+ spades, they should pass.
+    - With a less-than-invitational hand and 5+ hearts, they should transfer with 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - as over a 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid - and pass opener's forced 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rebid.
     - With a less-than-invitational hand and a 6+ card minor, they can transfer and pass opener's forced rebid if they feel that 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) will be better than 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 - Otherwise, responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 10-12 HCP, not 13-15 HCP).
 
