@@ -238,7 +238,7 @@ If opener has a strong and/or very unbalanced hand, they can rebid as follows:
 - 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promises 6+ spades.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
 
-If opener is strong enough to insist on game, they rebid as above but a level higher.
+If opener has a near maximum hand, they can rebid as above but a level higher, which is encouraging but not forcing.
 
 ##### Some examples
 
@@ -398,7 +398,7 @@ If opener has a strong and/or very unbalanced hand, they can rebid as follows:
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promises 6+ hearts.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
 
-If opener is strong enough to insist on game, they rebid as above but a level higher.
+If opener has a near maximum hand, they can rebid as above but a level higher, which is encouraging but not forcing.
 
 ##### Some examples
 

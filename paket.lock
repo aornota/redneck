@@ -647,7 +647,7 @@ NUGET
 
 GROUP md-console
 STORAGE: NONE
-RESTRICTION: == net5.0
+RESTRICTION: == net50
 NUGET
   remote: https://api.nuget.org/v3/index.json
     Fable.Core (3.3.1)
