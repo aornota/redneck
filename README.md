@@ -178,10 +178,12 @@ When responder has 4+ spades and ca. 13+ HCP, they should make a game-forcing re
 Opener rebids as follows:
 
 - A new suit at the 3-level shows a singleton or void (but not a singleton Ace).
-- A new suit at the 4-level shows a good suit (ideally 5+ cards and at least two of the top three honours).
+- A new suit - other than hearts - at the 4-level shows a good suit (ideally 5+ cards and at least two of the top three honours).
+    - Note that after a 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid and 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response, opener cannot need to show a good heart suit: with both majors, they would have opened 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rather than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Therefore the 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rebid can be used for another purpose.
 - 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a strong hand with 5+ spades.
 - 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a strong hand with exactly 4 spades.
-- 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a minimum hand.
+- 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows a minimum hand with 5+ spades.
+- 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a minimum hand with exactly 4 spades.
 
 ##### Some examples
 
