@@ -82,7 +82,7 @@ A balanced hand with 13 HCP and values concentrated in the 5-card major that cou
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)AKQJ9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)43![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)762![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)QJ2 -- balanced (**5**=_2_=3=3) | 13 HCP
 
-#### Responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+#### Responses to 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening
 
 These are all fairly standard: Stayman; transfers; quantitative; and so on.
 

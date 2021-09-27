@@ -28,7 +28,7 @@ A balanced hand with 13 HCP and values concentrated in the 5-card major that cou
 
 > {| s:AKQJ9 h:43 d:762 c:QJ2 --shape --hcp |}
 
-#### Responses to {1S} opening
+#### Responses to {1NT} opening
 
 These are all fairly standard: Stayman; transfers; quantitative; and so on.
 
