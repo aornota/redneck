@@ -26,11 +26,11 @@ A balanced hand with 19 HCP that should be opened {1C}:
 
 #### Responses to {1C} opening
 
-If responder has a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1C_opening).
+If responder has a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1C_opening) ({1S}, {2C}, {2D} or {2H}).
 
-If responder has a weak hand - ca. 5 HCP of less - and no long suit, they should make a [negative response](#Negative_response_to_1C_opening).
+If responder has a weak hand - ca. 5 HCP of less - and no long suit, they should make a [negative response](#Negative_response_to_1C_opening) ({1D}).
 
-If responder has ca. 6+ HCP, they should make a [relay response](#Relay_response_to_1C_opening).
+If responder has ca. 6+ HCP, they should make a [relay response](#Relay_response_to_1C_opening) ({1H}).
 
 {file:2510 Weak responses to 1C opening.md}
 

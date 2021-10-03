@@ -30,11 +30,11 @@ A balanced hand with 17 HCP that should be opened {1D}:
 
 If responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - and has 5+ diamonds, they should pass.
 
-If responder has ca. 6 HCP or less and a different 5+ card suit, they should make a [weak transfer response](#Weak_transfer_responses_to_1D_opening).
+If responder has ca. 6 HCP or less and a different 5+ card suit, they should make a [weak transfer response](#Weak_transfer_responses_to_1D_opening) ({1S}, {2D} or {2H}).
 
 If responder has invitational strength if opener has a 10-12 HCP hand - ca. 13-14 HCP - and a balanced hand (usually without a 4-card or longer major), they can invite game by [responding {1NT}](#1NT_response_to_1D_opening).
 
-Otherwise, responder should make a [relay response](#Relay_response_to_1D_opening).
+Otherwise, responder should make a [relay response](#Relay_response_to_1D_opening) ({1H}).
 
 {file:2410 Weak transfer responses to 1D opening.md}
 
