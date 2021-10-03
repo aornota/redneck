@@ -8,7 +8,7 @@
 * [**1-level opening bids**](#1-level_opening_bids)
   * [_**1NT opening**_](#1NT_opening)
   * [_**1S opening**_](#1S_opening)
-    * [Weak jump responses to 1S opening](#Weak_jump_responses_to_1S_opening)
+    * [Weak responses to 1S opening](#Weak_responses_to_1S_opening)
     * [Pre-emptive responses to 1S opening](#Pre-emptive_responses_to_1S_opening)
     * [Bergen responses to 1S opening](#Bergen_responses_to_1S_opening)
     * [Jacoby 2NT response to 1S opening](#Jacoby_2NT_response_to_1S_opening)
@@ -16,7 +16,7 @@
     * [Relay response to 1S opening](#Relay_response_to_1S_opening)
     * [1NT response to 1S opening](#1NT_response_to_1S_opening)
   * [_**1H opening**_](#1H_opening)
-    * [Weak jump responses to 1H opening](#Weak_jump_responses_to_1H_opening)
+    * [Weak responses to 1H opening](#Weak_responses_to_1H_opening)
     * [Pre-emptive responses to 1H opening](#Pre-emptive_responses_to_1H_opening)
     * [Bergen responses to 1H opening](#Bergen_responses_to_1H_opening)
     * [Jacoby 2NT response to 1H opening](#Jacoby_2NT_response_to_1H_opening)
@@ -28,7 +28,7 @@
     * [1NT response to 1D opening](#1NT_response_to_1D_opening)
     * [Relay response to 1D opening](#Relay_response_to_1D_opening)
   * [_**1C opening**_](#1C_opening)
-    * [Weak jump responses to 1C opening](#Weak_jump_responses_to_1C_opening)
+    * [Weak responses to 1C opening](#Weak_responses_to_1C_opening)
     * [Negative response to 1C opening](#Negative_response_to_1C_opening)
     * [Relay response to 1C opening](#Relay_response_to_1C_opening)
 
@@ -105,7 +105,7 @@ _Coming soon..._
 
 #### Responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-If responder has a weak hand with a long suit (ideally 7+ cards) other than spades - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak "jump" response](#Weak_jump_responses_to_1S_opening).
+If responder has a weak hand with a long suit (ideally 7+ cards) other than spades - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1S_opening).
 
 If responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should make a [pre-emptive response](#Pre-emptive_responses_to_1S_opening) (or pass with a very weak hand with exactly 4 spades and no singleton or void).
 
@@ -113,22 +113,22 @@ If responder has 4+ spades and ca. 7-12 HCP, they should make a [Bergen response
 
 If responder has 4+ spades and ca. 13+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1S_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead.
 
-If responder has an invitational-or-better hand - ca. 10+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening).
+If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening).
 
-If responder has ca. 6-9 HCP and fewer than 4 spades, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1S_opening).
+If responder has ca. 6-11 HCP and fewer than 4 spades, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1S_opening).
 
 
 Otherwise, responder should pass.
 
-### <a name="Weak_jump_responses_to_1S_opening"> Weak "jump" responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="Weak_responses_to_1S_opening"> Weak responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has a weak hand with a long suit (ideally 7+ cards) other than spades, they should make a weak "jump" response of 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). (Note that 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) and 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) are not technically jumps over 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).)
+When responder has a weak hand with a long suit (ideally 7+ cards) other than spades, they should make a weak response of 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). (These are analogous to weak jump responses in a standard system.)
 
 Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
 
 ##### An example
 
-A very weak hand with long hearts that should make a weak "jump" response of 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png):
+A very weak hand with long hearts that should make a weak response of 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)3![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)KT975432![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)862![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)5 -- very unbalanced (_1_=**8**=3=_1_) | 3 HCP
 
@@ -207,21 +207,19 @@ _Coming soon..._
 
 ### <a name="Relay_response_to_1S_opening"> Relay response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has an invitational-or-better hand - ca. 10+ HCP - and fewer than 4 spades, they should make a relay response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a relay response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 
-If minimum, opener rebids as follows:
+Opener rebids as follows:
 
-- 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows either a three-suited hand (with a singleton or void in hearts) or a 5322 hand.
+- 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows either a three-suited hand (4441 or 5440) with a singleton or void in hearts or a 5322 hand.
     - Responder then relays with 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and opener rebids as follows:
         - 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a three-suited hand with a singleton or void in hearts.
         - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
-- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows clubs (at least 5-4 or 4-5 in spades and clubs).
+- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows clubs with equal or longer spades (i.e. at least 5-4 in spades and clubs).
 - 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a single-suited hand with 6+ spades.
-- 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows diamonds (at least 5-4 or 4-5 in spades and diamonds).
-
-Note that - unlike after a [relay response to a 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening bid](#Relay_response_to_1H_opening) - opener's rebids are often unnatural (i.e. not showing 4+ cards in the suit bid). Therefore opener's immediate 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) and 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) rebids should be treated as semi-forcing (albeit responder will occasionally decide to pass with an appropriate hand).
-
-If strong, opener rebids as above but a level higher, which establishes a game-force.
+- 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows diamonds with equal or longer spades (i.e. at least 5-4 in spades and diamonds).
+- 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows longer clubs (i.e. at least 4-5 in spades and clubs).
+- 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows longer diamonds (i.e. at least 4-5 in spades and diamonds).
 
 ##### Some examples
 
@@ -230,17 +228,19 @@ _Coming soon..._
 
 ### <a name="1NT_response_to_1S_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has ca. 6-9 HCP and fewer than 4 spades, they should make a non-forcing response of 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+When responder has ca. 6-11 HCP and fewer than 4 spades, they should make a non-forcing response of 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
 (Note that this response does not promise a balanced hand.)
 
-If opener has a strong and/or very unbalanced hand, they can rebid as follows:
+If opener is minimum, they can pass (though might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
 
-- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promise 5+ cards in the suit bid.
-- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promises 6+ spades.
+- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promise 4+ cards in the suit bid.
+- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promises 5+ spades.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
 
-If opener has a near maximum hand, they can rebid as above but a level higher, which is encouraging but not forcing.
+Responder should rarely pass with an invitiational hand (ca. 9-11 HCP), though they might do so if they suspect a misfit.
+
+If opener has a very strong hand, they can rebid as above but a level higher, which is encouraging but not forcing.
 
 ##### Some examples
 
@@ -263,7 +263,7 @@ _Coming soon..._
 
 #### Responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-If responder has a weak hand with a long suit (ideally 7+ cards) other than hearts - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak "jump" response](#Weak_jump_responses_to_1H_opening).
+If responder has a weak hand with a long suit (ideally 7+ cards) other than hearts - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1H_opening).
 
 If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#Pre-emptive_responses_to_1H_opening) (or pass with a very weak hand with exactly 4 hearts and no singleton or void).
 
@@ -271,22 +271,22 @@ If responder has 4+ hearts and ca. 7-12 HCP, they should make a [Bergen response
 
 If responder has 4+ hearts and ca. 13+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead.
 
-If responder has an invitational-or-better hand - ca. 10+ HCP - and fewer than 4 hearts, they should make a [relay response](#Relay_response_to_1H_opening).
+If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a [relay response](#Relay_response_to_1H_opening).
 
-If responder has ca. 6-9 HCP and fewer than 4 hearts, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1H_opening).
+If responder has ca. 6-11 HCP and fewer than 4 hearts, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1H_opening).
 
 
 Otherwise, responder should pass.
 
-### <a name="Weak_jump_responses_to_1H_opening"> Weak "jump" responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="Weak_responses_to_1H_opening"> Weak responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has a weak hand with a long suit (ideally 7+ cards) other than hearts, they should make a weak "jump" response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). (Note that 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) and 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) are not technically jumps over 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).)
+When responder has a weak hand with a long suit (ideally 7+ cards) other than hearts, they should make a weak response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). (These are analogous to weak jump responses in a standard system.)
 
 Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
 
 ##### An example
 
-A very weak hand with long diamonds that should make a weak "jump" response of 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
+A very weak hand with long diamonds that should make a weak response of 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T8![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)5![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q975432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T52 -- very unbalanced (_2_=_1_=**7**=3) | 2 HCP
 
@@ -364,9 +364,9 @@ _Coming soon..._
 
 ### <a name="Relay_response_to_1H_opening"> Relay response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has an invitational-or-better hand - ca. 10+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
+When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 
-If minimum, opener rebids as follows:
+Opener rebids as follows:
 
 - 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows either a three-suited hand (4441 or 5440) or a 5322 hand.
     - Responder then relays with 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) and opener rebids as follows:
@@ -374,14 +374,13 @@ If minimum, opener rebids as follows:
         - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows a three-suited hand with a singleton or void in diamonds.
         - 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a three-suited hand with a singleton or void in clubs.
         - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
-- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows clubs (at least 5-4 or 4-5 in hearts and clubs).
-- 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows diamonds (at least 5-4 or 4-5 in hearts and diamonds).
+- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows clubs with equal or longer hearts (i.e. at least 5-4 in hearts and clubs).
+- 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows diamonds with equal or longer hearts (i.e. at least 5-4 in hearts and diamonds).
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows a single-suited hand with 6+ hearts.
-- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows spades (at least 5-4 or 4-5 in hearts and spades).
-
-Note that other than the 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) rebid (which forces responder to relay with 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)), opener's rebids are natural - showing 4+ cards in the suit bid - and non-forcing.
-
-If strong, opener rebids as above but a level higher, which establishes a game-force.
+- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows spades with equal or longer hearts (i.e. at least 5-4 in hearts and spades).
+- 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows longer spades (i.e. at least 4-5 in hearts and spades).
+- 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows longer clubs (i.e. at least 4-5 in hearts and clubs).
+- 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows longer diamonds (i.e. at least 4-5 in hearts and diamonds).
 
 ##### Some examples
 
@@ -390,17 +389,19 @@ _Coming soon..._
 
 ### <a name="1NT_response_to_1H_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has ca. 6-9 HCP and fewer than 4 hearts, they should make a non-forcing response of 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+When responder has ca. 6-11 HCP and fewer than 4 hearts, they should make a non-forcing response of 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
 (Note that this response does not promise a balanced hand.)
 
-If opener has a strong and/or very unbalanced hand, they can rebid as follows:
+If opener is minimum, they can pass (though might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
 
-- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promise 5+ cards in the suit bid.
-- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promises 6+ hearts.
+- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promise 4+ cards in the suit bid.
+- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promises 5+ hearts.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
 
-If opener has a near maximum hand, they can rebid as above but a level higher, which is encouraging but not forcing.
+Responder should rarely pass with an invitiational hand (ca. 9-11 HCP), though they might do so if they suspect a misfit.
+
+If opener has a very strong hand, they can rebid as above but a level higher, which is encouraging but not forcing.
 
 ##### Some examples
 
@@ -527,25 +528,25 @@ A balanced hand with 19 HCP that should be opened 1![C](https://raw.githubuserco
 
 #### Responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-If responder has a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak "jump" response](#Weak_jump_responses_to_1C_opening).
+If responder has a weak hand with a long suit (ideally 7+ cards) - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1C_opening).
 
 If responder has a weak hand - ca. 5 HCP of less - and no long suit, they should make a [negative response](#Negative_response_to_1C_opening).
 
 If responder has ca. 6+ HCP, they should make a [relay response](#Relay_response_to_1C_opening).
 
-### <a name="Weak_jump_responses_to_1C_opening"> Weak "jump" responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+### <a name="Weak_responses_to_1C_opening"> Weak responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-When responder has a weak hand with a long suit (ideally 7+ cards), they should make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (Note that 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) and 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) are not technically jumps over 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
+When responder has a weak hand with a long suit (ideally 7+ cards), they should make a weak response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (These are analogous to weak jump responses in a standard system.)
 
 Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long minor will be better).
 
 ##### Some examples
 
-A very weak hand with long spades that should make a weak "jump" response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png):
+A very weak hand with long spades that should make a weak response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QT87542![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)32![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)J3![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)96 -- unbalanced (**7**=_2_=_2_=_2_) | 3 HCP
 
-A weak hand with strength concentrated in the long suit that should make a weak "jump" response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
+A weak hand with strength concentrated in the long suit that should make a weak response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png):
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)J32![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)64![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)87![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQT975 -- semi-balanced (3=_2_=_2_=**6**) | 6 HCP
 

@@ -14,7 +14,7 @@ _Coming soon..._
 
 #### Responses to {1S} opening
 
-If responder has a weak hand with a long suit (ideally 7+ cards) other than spades - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak "jump" response](#Weak_jump_responses_to_1S_opening).
+If responder has a weak hand with a long suit (ideally 7+ cards) other than spades - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1S_opening).
 
 If responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should make a [pre-emptive response](#Pre-emptive_responses_to_1S_opening) (or pass with a very weak hand with exactly 4 spades and no singleton or void).
 
@@ -22,15 +22,15 @@ If responder has 4+ spades and ca. 7-12 HCP, they should make a [Bergen response
 
 If responder has 4+ spades and ca. 13+ HCP, they should make a [Jacoby {2NT} response](#Jacoby_2NT_response_to_1S_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead.
 
-If responder has an invitational-or-better hand - ca. 10+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening).
+If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening).
 
-If responder has ca. 6-9 HCP and fewer than 4 spades, they should [respond {1NT}](#1NT_response_to_1S_opening).
+If responder has ca. 6-11 HCP and fewer than 4 spades, they should [respond {1NT}](#1NT_response_to_1S_opening).
 
 // TODO-NMB: What about {3NT} ("pudding") and {4NT} (RKCB) responses?...
 
 Otherwise, responder should pass.
 
-{file:2210 Weak jump responses to 1S opening.md}
+{file:2210 Weak responses to 1S opening.md}
 
 {file:2220 Pre-emptive responses to 1S opening.md}
 
