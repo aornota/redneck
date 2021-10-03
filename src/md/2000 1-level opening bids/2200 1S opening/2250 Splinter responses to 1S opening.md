@@ -1,6 +1,6 @@
 ### <a name="Splinter_responses_to_1S_opening"> Splinter responses to {1S} opening
 
-When responder has 4+ spades, ca. 13+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
+When responder has 4+ spades, ca. 12+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
 - {4C} shows a singleton or void in clubs.
 - {4D} shows a singleton or void in diamonds.

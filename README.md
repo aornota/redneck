@@ -31,6 +31,7 @@
     * [Weak responses to 1C opening](#Weak_responses_to_1C_opening)
     * [Negative response to 1C opening](#Negative_response_to_1C_opening)
     * [Relay response to 1C opening](#Relay_response_to_1C_opening)
+    * [1NT response to 1C opening](#1NT_response_to_1C_opening)
 
 # <a name="Introduction"> Introduction
 
@@ -109,11 +110,11 @@ If responder has a weak hand with a long suit (ideally 7+ cards) other than spad
 
 If responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should make a [pre-emptive response](#Pre-emptive_responses_to_1S_opening) (2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)) - or pass with a very weak hand with exactly 4 spades and no singleton or void.
 
-If responder has 4+ spades and ca. 7-12 HCP, they should make a [Bergen response](#Bergen_responses_to_1S_opening) (3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
+If responder has 4+ spades and ca. 7-11 HCP, they should make a [Bergen response](#Bergen_responses_to_1S_opening) (3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
 
-If responder has 4+ spades and ca. 13+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1S_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead (4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
+If responder has 4+ spades and ca. 12+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1S_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead (4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
 
-If responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
+If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
 
 If responder has ca. 6-11 HCP and fewer than 4 spades, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1S_opening).
 
@@ -156,13 +157,13 @@ _Coming soon..._
 
 ### <a name="Bergen_responses_to_1S_opening"> Bergen responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has 4+ spades and ca. 7-12 HCP, they shuuld bid as follows:
+When responder has 4+ spades and ca. 7-11 HCP, they shuuld bid as follows:
 
 - With 7-9 HCP, they bid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png). Opener can:
     - Rebid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) to invite game (with responder signing-off in 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
     - Sign-off in 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
     - Explore for slam.
-- With 10-12 HCP, they bid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). Opener can sign-off in 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), or explore for slam.
+- With 10-11 HCP, they bid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). Opener can sign-off in 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), or explore for slam.
 
 ##### Some examples
 
@@ -171,7 +172,7 @@ _Coming soon..._
 
 ### <a name="Jacoby_2NT_response_to_1S_opening"> Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has 4+ spades and ca. 13+ HCP, they should make a game-forcing response of 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+When responder has 4+ spades and ca. 12+ HCP, they should make a game-forcing response of 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
 (However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead.)
 
@@ -192,7 +193,7 @@ _Coming soon..._
 
 ### <a name="Splinter_responses_to_1S_opening"> Splinter responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has 4+ spades, ca. 13+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
+When responder has 4+ spades, ca. 12+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
 - 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows a singleton or void in clubs.
 - 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a singleton or void in diamonds.
@@ -207,7 +208,7 @@ _Coming soon..._
 
 ### <a name="Relay_response_to_1S_opening"> Relay response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 spades, they should make a relay response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a relay response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 
 Opener rebids as follows:
 
@@ -232,7 +233,7 @@ When responder has ca. 6-11 HCP and fewer than 4 spades, they should make a non-
 
 (Note that this response does not promise a balanced hand.)
 
-If opener is minimum, they can pass (though might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
+If opener is minimum, they can pass (though they might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
 
 - 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promise 4+ cards in the suit bid.
 - 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promises 5+ spades.
@@ -267,11 +268,11 @@ If responder has a weak hand with a long suit (ideally 7+ cards) other than hear
 
 If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#Pre-emptive_responses_to_1H_opening) (2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)) - or pass with a very weak hand with exactly 4 hearts and no singleton or void.
 
-If responder has 4+ hearts and ca. 7-12 HCP, they should make a [Bergen response](#Bergen_responses_to_1H_opening) (3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
+If responder has 4+ hearts and ca. 7-11 HCP, they should make a [Bergen response](#Bergen_responses_to_1H_opening) (3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
 
-If responder has 4+ hearts and ca. 13+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead (3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
+If responder has 4+ hearts and ca. 12+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead (3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
 
-If responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 hearts, they should make a [relay response](#Relay_response_to_1H_opening) (1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
+If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a [relay response](#Relay_response_to_1H_opening) (1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
 
 If responder has ca. 6-11 HCP and fewer than 4 hearts, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1H_opening).
 
@@ -314,13 +315,13 @@ _Coming soon..._
 
 ### <a name="Bergen_responses_to_1H_opening"> Bergen responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has 4+ hearts and ca. 7-12 HCP, they shuuld bid as follows:
+When responder has 4+ hearts and ca. 7-11 HCP, they shuuld bid as follows:
 
 - With 7-9 HCP, they bid 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). Opener can:
     - Rebid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) to invite game (with responder signing-off in 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
     - Sign-off in 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
     - Explore for slam.
-- With 10-12 HCP, they bid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png). Opener can sign-off in 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), or explore for slam.
+- With 10-11 HCP, they bid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png). Opener can sign-off in 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), or explore for slam.
 
 ##### Some examples
 
@@ -329,7 +330,7 @@ _Coming soon..._
 
 ### <a name="Jacoby_2NT_response_to_1H_opening"> Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has 4+ hearts and ca. 13+ HCP, they should make a game-forcing response of 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+When responder has 4+ hearts and ca. 12+ HCP, they should make a game-forcing response of 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
 (However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead.)
 
@@ -349,7 +350,7 @@ _Coming soon..._
 
 ### <a name="Splinter_responses_to_1H_opening"> Splinter responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has 4+ hearts, ca. 13+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
+When responder has 4+ hearts, ca. 12+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
 - 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a singleton or void in spades.
 - 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows a singleton or void in clubs.
@@ -364,7 +365,7 @@ _Coming soon..._
 
 ### <a name="Relay_response_to_1H_opening"> Relay response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
+When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 
 Opener rebids as follows:
 
@@ -393,7 +394,7 @@ When responder has ca. 6-11 HCP and fewer than 4 hearts, they should make a non-
 
 (Note that this response does not promise a balanced hand.)
 
-If opener is minimum, they can pass (though might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
+If opener is minimum, they can pass (though they might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
 
 - 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promise 4+ cards in the suit bid.
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promises 5+ hearts.
@@ -532,7 +533,9 @@ If responder has a weak hand with a long suit (ideally 7+ cards) - such that the
 
 If responder has a weak hand - ca. 5 HCP of less - and no long suit, they should make a [negative response](#Negative_response_to_1C_opening) (1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
 
-If responder has ca. 6+ HCP, they should make a [relay response](#Relay_response_to_1C_opening) (1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
+If responder has game-forcing hand - ca. 12+ HCP - they should make a [relay response](#Relay_response_to_1C_opening) (1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
+
+If responder has ca. 6-11 HCP, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1c_opening).
 
 ### <a name="Weak_responses_to_1C_opening"> Weak responses to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
@@ -567,17 +570,35 @@ Opener rebids as follows:
 
 ### <a name="Relay_response_to_1C_opening"> Relay response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
 
-When responder has ca. 6+ HCP, they should make a relay response of 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
+When responder has a game-forcing hand - ca. 12+ HCP - they should make a relay response of 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
 
 Opener rebids as follows:
 
-- With both minor suits (at least 5-4) and a minimum hand, they rebid 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
-    - Responder can then relay with 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask opener to rebid their longer (or stronger if equal length) minor at the 2-level - or, if short in both minors, improvise some other bid.
-- With a balanced (4333, 4432, and 5332) hand and 19-21 HCP, they rebid 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
-    - Responder's rebids are analogous to the [responses to a 1NT opening bid](#Responses_to_1NT_opening) (albeit taking into account that opener's point range is 19-21 HCP, not 13-15 HCP).
-- With 6+ clubs and a minimum hand, they rebid 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
-- With 6+ diamonds and a minimum hand, they rebid 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
-- With both minor suits (at least 5-4) and a strong hand, they rebid 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
-    - Responder can then relay with 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) to ask opener to rebid their longer (or stronger if equal length) minor at the 3-level - or, if short in both minors, improvise some other bid.
-- With 6+ clubs and a strong hand, they rebid 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
-- With 6+ diamonds and a strong hand, they rebid 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).
+- 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows both minors with equal or longer clubs (i.e. at least 5-4 in clubs and diamonds).
+- 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a balanced (4333, 4432, and 5332) hand with 19-21 HCP.
+- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows a single-suited hand with 6+ clubs.
+- 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a single-suited hand with 6+ diamonds.
+- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows both minors with longer diamonds (i.e. at least 4-5 in clubs and diamonds).
+
+### <a name="1NT_response_to_1C_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) opening
+
+When responder has ca. 6-11 HCP, they should make a non-forcing response of 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
+
+(Note that this response does not promise a balanced hand.)
+
+If opener is minimum, they can pass (though they might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
+
+- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows a single-suited hand with 6+ clubs.
+- 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a single-suited hand with 6+ diamonds.
+- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows both minors with longer diamonds (i.e. at least 4-5 in clubs and diamonds).
+- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows both minors with equal or longer clubs (i.e. at least 5-4 in clubs and diamonds).
+- 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a balanced (4333, 4432, and 5332) hand with 19-21 HCP.
+
+Responder should rarely pass opener's 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) rebids with an invitiational hand (ca. 9-11 HCP), though they might do so if they suspect a misfit. (They should never pass if opener rebids 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).)
+
+If opener has a very strong and unbalanced hand, they can rebid as above but a level higher, which is encouraging but not forcing. (There is no need to jump rebid when they have a balanced hand with 19-21 HCP.)
+
+##### Some examples
+
+_Coming soon..._
+

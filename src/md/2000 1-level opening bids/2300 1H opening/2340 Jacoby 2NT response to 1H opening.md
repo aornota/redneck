@@ -1,6 +1,6 @@
 ### <a name="Jacoby_2NT_response_to_1H_opening"> Jacoby {2NT} response to {1H} opening
 
-When responder has 4+ hearts and ca. 13+ HCP, they should make a game-forcing response of {2NT}.
+When responder has 4+ hearts and ca. 12+ HCP, they should make a game-forcing response of {2NT}.
 
 (However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead.)
 

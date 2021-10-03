@@ -30,12 +30,16 @@ If responder has a weak hand with a long suit (ideally 7+ cards) - such that the
 
 If responder has a weak hand - ca. 5 HCP of less - and no long suit, they should make a [negative response](#Negative_response_to_1C_opening) ({1D}).
 
-If responder has ca. 6+ HCP, they should make a [relay response](#Relay_response_to_1C_opening) ({1H}).
+If responder has game-forcing hand - ca. 12+ HCP - they should make a [relay response](#Relay_response_to_1C_opening) ({1H}).
+
+If responder has ca. 6-11 HCP, they should [respond {1NT}](#1NT_response_to_1c_opening).
 
 {file:2510 Weak responses to 1C opening.md}
 
 {file:2520 Negative response to 1C opening.md}
 
 {file:2530 Relay response to 1C opening.md}
+
+{file:2540 1NT response to 1C opening.md}
 
 // TODO-NMB...{file:2590 Coping with interference after 1C opening.md}

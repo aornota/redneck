@@ -1,6 +1,6 @@
 ### <a name="Relay_response_to_1H_opening"> Relay response to {1H} opening
 
-When responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 hearts, they should make a relay response of {1S}.
+When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a relay response of {1S}.
 
 Opener rebids as follows:
 

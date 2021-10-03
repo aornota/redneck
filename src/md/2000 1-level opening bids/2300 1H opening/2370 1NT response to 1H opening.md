@@ -4,7 +4,7 @@ When responder has ca. 6-11 HCP and fewer than 4 hearts, they should make a non-
 
 (Note that this response does not promise a balanced hand.)
 
-If opener is minimum, they can pass (though might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
+If opener is minimum, they can pass (though they might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
 
 - {2C}, {2D}, and {2S} promise 4+ cards in the suit bid.
 - {2H} promises 5+ hearts.

@@ -1,6 +1,6 @@
 ### <a name="Splinter_responses_to_1H_opening"> Splinter responses to {1H} opening
 
-When responder has 4+ hearts, ca. 13+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
+When responder has 4+ hearts, ca. 12+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
 - {3S} shows a singleton or void in spades.
 - {4C} shows a singleton or void in clubs.
