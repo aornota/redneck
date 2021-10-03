@@ -113,7 +113,7 @@ If responder has 4+ spades and ca. 7-12 HCP, they should make a [Bergen response
 
 If responder has 4+ spades and ca. 13+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1S_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead (4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
 
-If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
+If responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
 
 If responder has ca. 6-11 HCP and fewer than 4 spades, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1S_opening).
 
@@ -207,7 +207,7 @@ _Coming soon..._
 
 ### <a name="Relay_response_to_1S_opening"> Relay response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a relay response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+When responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 spades, they should make a relay response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 
 Opener rebids as follows:
 
@@ -271,7 +271,7 @@ If responder has 4+ hearts and ca. 7-12 HCP, they should make a [Bergen response
 
 If responder has 4+ hearts and ca. 13+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead (3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
 
-If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a [relay response](#Relay_response_to_1H_opening) (1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
+If responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 hearts, they should make a [relay response](#Relay_response_to_1H_opening) (1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
 
 If responder has ca. 6-11 HCP and fewer than 4 hearts, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1H_opening).
 
@@ -364,7 +364,7 @@ _Coming soon..._
 
 ### <a name="Relay_response_to_1H_opening"> Relay response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
+When responder has a game-forcing hand - ca. 13+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 
 Opener rebids as follows:
 
