@@ -2,7 +2,7 @@
 
 When responder has a weak hand with a long suit (ideally 7+ cards) other than hearts, they should make a weak response of {2C}, {2D} or {2S}. (These are analogous to weak jump responses in a standard system.)
 
-Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
+Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel that playing in their long suit will be better).
 
 ##### An example
 

@@ -125,7 +125,7 @@ Otherwise, responder should pass.
 
 When responder has a weak hand with a long suit (ideally 7+ cards) other than spades, they should make a weak response of 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). (These are analogous to weak jump responses in a standard system.)
 
-Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
+Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel that playing in their long suit will be better).
 
 ##### An example
 
@@ -283,7 +283,7 @@ Otherwise, responder should pass.
 
 When responder has a weak hand with a long suit (ideally 7+ cards) other than hearts, they should make a weak response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). (These are analogous to weak jump responses in a standard system.)
 
-Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long suit will be better).
+Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel that playing in their long suit will be better).
 
 ##### An example
 
@@ -541,7 +541,7 @@ If responder has ca. 6-11 HCP, they should [respond 1![NT](https://raw.githubuse
 
 When responder has a weak hand with a long suit (ideally 7+ cards), they should make a weak response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png). (These are analogous to weak jump responses in a standard system.)
 
-Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel than playing in their long minor will be better).
+Opener should usually pass, though may choose to do otherwise with a strong hand and a good fit for responder's long suit (or if they feel that playing in their long minor will be better).
 
 ##### Some examples
 
