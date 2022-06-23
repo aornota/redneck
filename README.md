@@ -180,7 +180,7 @@ Opener rebids as follows:
 
 - A new suit at the 3-level shows a singleton or void (but not a singleton Ace).
 - A new suit - other than hearts - at the 4-level shows a good suit (ideally 5+ cards and at least two of the top three honours).
-    - Note that after a 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid and 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response, opener cannot need to show a good heart suit: with both majors, they would have opened 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rather than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Therefore the 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rebid can be used for another purpose.
+    - Note that after a 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid and 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response, opener cannot need to show a good heart suit: with 4+ cards in both majors, they would have opened 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rather than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Therefore the 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rebid can be used for another purpose.
 - 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows a strong hand with 5+ spades.
 - 3![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a strong hand with exactly 4 spades.
 - 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows a minimum hand with 5+ spades.
@@ -235,8 +235,11 @@ When responder has ca. 6-11 HCP and fewer than 4 spades, they should make a non-
 
 If opener is minimum, they can pass (though they might prefer to bid with a very unbalanced hand). Otherwise, opener should rebid as follows:
 
-- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), and 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promise 4+ cards in the suit bid.
-- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promises 5+ spades.
+- 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) and 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) promise 4+ cards in the suit bid.
+    - Note that after a 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid and 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response, opener cannot need to show a heart suit with 4+ cards: with 4+ cards in both majors, they would have opened 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rather than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Therefore the 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rebid can be used for another purpose.
+    - Note also that if opener does not have 4+ cards in either minor, they must either have a 5332 hand that they decided was not "no-trumpy" - or 6+ spades.
+- 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) promises exactly 6 spades (and denies 4+ cards in any other suit, therefore a 6322 or 6331 hand).
+- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) promises 7+ spades.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
 
 Responder should rarely pass with an invitiational hand (ca. 9-11 HCP), though they might do so if they suspect a misfit.

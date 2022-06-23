@@ -8,7 +8,7 @@ Opener rebids as follows:
 
 - A new suit at the 3-level shows a singleton or void (but not a singleton Ace).
 - A new suit - other than hearts - at the 4-level shows a good suit (ideally 5+ cards and at least two of the top three honours).
-    - Note that after a {1S} opening bid and {2NT} response, opener cannot need to show a good heart suit: with both majors, they would have opened {1H} rather than {1S}. Therefore the {4H} rebid can be used for another purpose.
+    - Note that after a {1S} opening bid and {2NT} response, opener cannot need to show a good heart suit: with 4+ cards in both majors, they would have opened {1H} rather than {1S}. Therefore the {4H} rebid can be used for another purpose.
 - {3S} shows a strong hand with 5+ spades.
 - {3NT} shows a strong hand with exactly 4 spades.
 - {4H} shows a minimum hand with 5+ spades.
