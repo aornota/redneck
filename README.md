@@ -145,7 +145,7 @@ When responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should m
 
 Opener will usually pass the pre-emptive raise; with a strong hand, they might be able to bid 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) - or, if interested in game following a 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) response, they can:
 
-- Bid a new suit at the 3-level to show a weak suit where they fear too many quick losers.
+- Bid a new suit at the cheapest level (i.e. 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)) to show a weak suit where they fear too many quick losers.
     - If responder has a 1-loser holding in the suit, they bid 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png); otherwise, they bid 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 - Bid 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) to show poor quality spades (e.g. something like T9643).
     - If responder has two honours in spades, they bid 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png); otherwise, they pass.
@@ -306,7 +306,7 @@ When responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should m
 
 Opener will usually pass the pre-emptive raise; with a strong hand, they might be able to bid 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) - or, if interested in game following a 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) response, they can:
 
-- Bid a new suit at the 3-level to show a weak suit where they fear too many quick losers.
+- Bid a new suit at the cheapest level (i.e. 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)) to show a weak suit where they fear too many quick losers.
     - If responder has a 1-loser holding in the suit, they bid 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png); otherwise, they bid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
 - Bid 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) to show poor quality hearts (e.g. something like T9643).
     - If responder has two honours in hearts, they bid 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png); otherwise, they pass.

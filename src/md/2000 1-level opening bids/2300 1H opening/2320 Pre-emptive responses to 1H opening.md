@@ -10,7 +10,7 @@ When responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should m
 
 Opener will usually pass the pre-emptive raise; with a strong hand, they might be able to bid {4H} - or, if interested in game following a {2H} response, they can:
 
-- Bid a new suit at the 3-level to show a weak suit where they fear too many quick losers.
+- Bid a new suit at the cheapest level (i.e. {2S}, {3C} or {3D}) to show a weak suit where they fear too many quick losers.
     - If responder has a 1-loser holding in the suit, they bid {4H}; otherwise, they bid {3H}.
 - Bid {3H} to show poor quality hearts (e.g. something like T9643).
     - If responder has two honours in hearts, they bid {4H}; otherwise, they pass.

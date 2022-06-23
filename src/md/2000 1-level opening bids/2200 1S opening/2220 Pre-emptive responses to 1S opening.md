@@ -10,7 +10,7 @@ When responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should m
 
 Opener will usually pass the pre-emptive raise; with a strong hand, they might be able to bid {4S} - or, if interested in game following a {2S} response, they can:
 
-- Bid a new suit at the 3-level to show a weak suit where they fear too many quick losers.
+- Bid a new suit at the cheapest level (i.e. {3C}, {3D} or {3H}) to show a weak suit where they fear too many quick losers.
     - If responder has a 1-loser holding in the suit, they bid {4S}; otherwise, they bid {3S}.
 - Bid {3S} to show poor quality spades (e.g. something like T9643).
     - If responder has two honours in spades, they bid {4S}; otherwise, they pass.
