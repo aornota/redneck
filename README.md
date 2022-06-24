@@ -240,7 +240,7 @@ If opener is minimum, they can pass (though they might prefer to bid with a very
 - Note that after a 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening bid and 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response, opener cannot need to show a heart suit with 4+ cards: with 4+ cards in both majors, they would have opened 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rather than 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). Therefore the 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) rebid can be used for another purpose.
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows 5+ spades and 4+ cards in an undisclosed minor (but does not promise equal-or-longer spades, e.g. opener could be 5=1=1=6).
     - Responder's 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) rebid now asks opener to bid their undisclosed minor. (With a 5=0=4=4 hand, opener will bid the cheaper minor, i.e. 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).)
-- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows 6+ spades (and denies 4+ cards in either minor, therefore a 6322 or 6331 hand).
+- 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows 6+ spades and denies 4+ cards in either minor.
 - 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a 5332 hand.
 
 Responder should rarely pass with an invitiational hand (ca. 9-11 HCP), though they might do so if they suspect a misfit.
