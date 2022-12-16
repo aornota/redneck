@@ -39,7 +39,7 @@ Redneck is an experimental Bridge bidding system invented by Jack and Neph after
 
 It has the following notable features:
 
-- All balanced (4333, 4432, and 5332) hands with 10-21 HCP can be shown - divided into four separate HCP ranges - at the 1-level (assuming no interference).
+- All balanced (4333, 4432 or 5332) hands with 10-21 HCP can be shown - divided into four separate HCP ranges - at the 1-level (assuming no interference).
 - All unbalanced hands with ca. 11-19 HCP and containing at least one 4-card or longer major suit are opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-opening), even if they have a longer (or equal length) minor suit.
 - All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit are opened [1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)](#-1c-opening).
 
@@ -55,7 +55,7 @@ Specifically, the 1-level openings bids are as follows:
 
 ## <a name="1NT_opening"> 1NT opening
 
-All balanced (4333, 4432, and 5332) hands with 13-15 HCP should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) - except that a 5332 hand with a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
+All balanced (4333, 4432 or 5332) hands with 13-15 HCP should be opened 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) - except that a 5332 hand with a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
 A 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) opening bid is not forcing.
 
@@ -417,7 +417,7 @@ _Coming soon..._
 
 ## <a name="1D_opening"> 1D opening
 
-All balanced (4333, 4432, and 5332) hands with either 10-12 HCP or 16-18 HCP should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - except that a 5332 hand with 16-18 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
+All balanced (4333, 4432 or 5332) hands with either 10-12 HCP or 16-18 HCP should be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) - except that a 5332 hand with 16-18 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
 (A 5332 hand with 10-12 HCP and a 5-card major will rarely satisfy the "rule of 20" and should almost always be opened 1![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png).)
 
@@ -508,7 +508,7 @@ If opener has a 16-18 HCP hand, they should rebid 1![NT](https://raw.githubuserc
 
 ## <a name="1C_opening"> 1C opening
 
-All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432, and 5332) hands with 19-21 HCP - are opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
+All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit - and all balanced (4333, 4432 or 5332) hands with 19-21 HCP - are opened 1![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 
 (As usual, a 5332 hand with 19-21 HCP and a 5-card major can be opened [1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)](#-1s-opening) or [1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)](#-1h-opening) if it does not feel "no-trumpy" - though with 19-21 HCP, that is unlikely.)
 
@@ -580,7 +580,7 @@ When responder has a game-forcing hand - ca. 12+ HCP - they should make a relay 
 Opener rebids as follows:
 
 - 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows both minors with equal or longer clubs (i.e. at least 5-4 in clubs and diamonds).
-- 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a balanced (4333, 4432, and 5332) hand with 19-21 HCP.
+- 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a balanced (4333, 4432 or 5332) hand with 19-21 HCP.
 - 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows a single-suited hand with 6+ clubs.
 - 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a single-suited hand with 6+ diamonds.
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows both minors with longer diamonds (i.e. at least 4-5 in clubs and diamonds).
@@ -597,7 +597,7 @@ If opener is minimum, they can pass (though they might prefer to bid with a very
 - 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a single-suited hand with 6+ diamonds.
 - 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows both minors with longer diamonds (i.e. at least 4-5 in clubs and diamonds).
 - 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) shows both minors with equal or longer clubs (i.e. at least 5-4 in clubs and diamonds).
-- 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a balanced (4333, 4432, and 5332) hand with 19-21 HCP.
+- 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) shows a balanced (4333, 4432 or 5332) hand with 19-21 HCP.
 
 Responder should rarely pass opener's 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) rebids with an invitiational hand (ca. 9-11 HCP), though they might do so if they suspect a misfit. (They should never pass if opener rebids 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).)
 

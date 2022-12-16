@@ -4,7 +4,7 @@ Redneck is an experimental Bridge bidding system invented by Jack and Neph after
 
 It has the following notable features:
 
-- All balanced (4333, 4432, and 5332) hands with 10-21 HCP can be shown - divided into four separate HCP ranges - at the 1-level (assuming no interference).
+- All balanced (4333, 4432 or 5332) hands with 10-21 HCP can be shown - divided into four separate HCP ranges - at the 1-level (assuming no interference).
 - All unbalanced hands with ca. 11-19 HCP and containing at least one 4-card or longer major suit are opened [{1S}](#-1s-opening) or [{1H}](#-1h-opening), even if they have a longer (or equal length) minor suit.
 - All unbalanced hands with ca. 11-19 HCP and without a 4-card or longer major suit are opened [{1C}](#-1c-opening).
 
