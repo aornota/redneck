@@ -1,4 +1,4 @@
-### <a name="1NT_response_to_1C_opening"> {1NT} response to {1C} opening
+### <a name="1NT_response_to_1C_opening"> 1NT response to 1C opening
 
 When responder has ca. 6-11 HCP, they should make a non-forcing response of {1NT}.
 

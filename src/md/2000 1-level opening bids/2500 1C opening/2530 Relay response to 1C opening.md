@@ -1,4 +1,4 @@
-### <a name="Relay_response_to_1C_opening"> Relay response to {1C} opening
+### <a name="Relay_response_to_1C_opening"> Relay response to 1C opening
 
 When responder has a game-forcing hand - ca. 12+ HCP - they should make a relay response of {1H}.
 

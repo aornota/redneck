@@ -1,4 +1,4 @@
-### <a name="Negative_response_to_1C_opening"> Negative response to {1C} opening
+### <a name="Negative_response_to_1C_opening"> Negative response to 1C opening
 
 When responder has a very weak hand - ca. 5 HCP or less - and no long suit, they should make a negative response of {1D}.
 
