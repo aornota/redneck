@@ -1,4 +1,4 @@
-### <a name="Relay_response_to_1S_opening"> Relay response to {1S} opening
+### <a name="Relay_response_to_1S_opening"> Relay response to 1S opening
 
 When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a relay response of {2C}.
 

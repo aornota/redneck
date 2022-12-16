@@ -1,4 +1,4 @@
-### <a name="Weak_responses_to_1S_opening"> Weak responses to {1S} opening
+### <a name="Weak_responses_to_1S_opening"> Weak responses to 1S opening
 
 When responder has a weak hand with a long suit (ideally 7+ cards) other than spades, they should make a weak response of {2D}, {2H} or {3C}. (These are analogous to weak jump responses in a standard system.)
 

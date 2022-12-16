@@ -1,8 +1,8 @@
-### <a name="Jacoby_2NT_response_to_1S_opening"> Jacoby {2NT} response to {1S} opening
+### <a name="Jacoby_2NT_response_to_1S_opening"> Jacoby 2NT response to 1S opening
 
 When responder has 4+ spades and ca. 12+ HCP, they should make a game-forcing response of {2NT}.
 
-(However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead.)
+(However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#-splinter-responses-to-1s-opening) instead.)
 
 Opener rebids as follows:
 

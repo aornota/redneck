@@ -1,4 +1,4 @@
-### <a name="Pre-emptive_responses_to_1S_opening"> Pre-emptive responses to {1S} opening
+### <a name="Pre-emptive_responses_to_1S_opening"> Pre-emptive responses to 1S opening
 
 When responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should make a pre-emptive raise in spades:
 

@@ -1,4 +1,4 @@
-### <a name="Bergen_responses_to_1S_opening"> Bergen responses to {1S} opening
+### <a name="Bergen_responses_to_1S_opening"> Bergen responses to 1S opening
 
 When responder has 4+ spades and ca. 7-11 HCP, they shuuld bid as follows:
 

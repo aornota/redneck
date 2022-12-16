@@ -1,4 +1,4 @@
-### <a name="1NT_response_to_1S_opening"> {1NT} response to {1S} opening
+### <a name="1NT_response_to_1S_opening"> 1NT response to 1S opening
 
 When responder has ca. 6-11 HCP and fewer than 4 spades, they should make a non-forcing response of {1NT}.
 

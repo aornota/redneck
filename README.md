@@ -91,7 +91,7 @@ _Details to follow..._
 
 
 
-## <a name="1S_opening"> 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+## <a name="1S_opening"> 1S opening
 
 All unbalanced hands (and the occasional 5332 hand) with ca. 11-19 HCP and with 4+ spades and fewer than 4 hearts are opened 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 
@@ -106,22 +106,22 @@ _Coming soon..._
 
 #### Responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
 
-If responder has a weak hand with a long suit (ideally 7+ cards) other than spades - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1S_opening) (2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
+If responder has a weak hand with a long suit (ideally 7+ cards) other than spades - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#-weak-responses-to-1s-opening) (2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
 
-If responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should make a [pre-emptive response](#Pre-emptive_responses_to_1S_opening) (2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)) - or pass with a very weak hand with exactly 4 spades and no singleton or void.
+If responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should make a [pre-emptive response](#-pre-emptive-responses-to-1s-opening) (2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) or 4![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)) - or pass with a very weak hand with exactly 4 spades and no singleton or void.
 
-If responder has 4+ spades and ca. 7-11 HCP, they should make a [Bergen response](#Bergen_responses_to_1S_opening) (3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
+If responder has 4+ spades and ca. 7-11 HCP, they should make a [Bergen response](#-bergen-responses-to-1s-opening) (3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
 
-If responder has 4+ spades and ca. 12+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1S_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead (4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
+If responder has 4+ spades and ca. 12+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#-jacoby-2nt-response-to-1s-opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#-splinter-responses-to-1s-opening) instead (4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)).
 
-If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a [relay response](#Relay_response_to_1S_opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
+If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a [relay response](#-relay-response-to-1s-opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png)).
 
-If responder has ca. 6-11 HCP and fewer than 4 spades, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1S_opening).
+If responder has ca. 6-11 HCP and fewer than 4 spades, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-1nt-response-to-1s-opening).
 
 
 Otherwise, responder should pass.
 
-### <a name="Weak_responses_to_1S_opening"> Weak responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="Weak_responses_to_1S_opening"> Weak responses to 1S opening
 
 When responder has a weak hand with a long suit (ideally 7+ cards) other than spades, they should make a weak response of 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png), 2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png). (These are analogous to weak jump responses in a standard system.)
 
@@ -133,7 +133,7 @@ A very weak hand with long hearts that should make a weak response of 2![H](http
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)3![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)KT975432![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)862![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)5 -- very unbalanced (_1_=**8**=3=_1_) | 3 HCP
 
-### <a name="Pre-emptive_responses_to_1S_opening"> Pre-emptive responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="Pre-emptive_responses_to_1S_opening"> Pre-emptive responses to 1S opening
 
 When responder has a weak hand (ca. 6 HCP or less) with 4+ spades, they should make a pre-emptive raise in spades:
 
@@ -155,7 +155,7 @@ Opener will usually pass the pre-emptive raise; with a strong hand, they might b
 _Coming soon..._
 
 
-### <a name="Bergen_responses_to_1S_opening"> Bergen responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="Bergen_responses_to_1S_opening"> Bergen responses to 1S opening
 
 When responder has 4+ spades and ca. 7-11 HCP, they shuuld bid as follows:
 
@@ -170,11 +170,11 @@ When responder has 4+ spades and ca. 7-11 HCP, they shuuld bid as follows:
 _Coming soon..._
 
 
-### <a name="Jacoby_2NT_response_to_1S_opening"> Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="Jacoby_2NT_response_to_1S_opening"> Jacoby 2NT response to 1S opening
 
 When responder has 4+ spades and ca. 12+ HCP, they should make a game-forcing response of 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
-(However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#Splinter_responses_to_1S_opening) instead.)
+(However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#-splinter-responses-to-1s-opening) instead.)
 
 Opener rebids as follows:
 
@@ -191,7 +191,7 @@ Opener rebids as follows:
 _Coming soon..._
 
 
-### <a name="Splinter_responses_to_1S_opening"> Splinter responses to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="Splinter_responses_to_1S_opening"> Splinter responses to 1S opening
 
 When responder has 4+ spades, ca. 12+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
@@ -199,14 +199,14 @@ When responder has 4+ spades, ca. 12+ HCP, and a singleton or void (but not a si
 - 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a singleton or void in diamonds.
 - 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) shows a singleton or void in hearts.
 
-(However, by partnership agreement, a strong responder might prefer a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1S_opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
+(However, by partnership agreement, a strong responder might prefer a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#-jacoby-2nt-response-to-1s-opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
 
 ##### Some examples
 
 _Coming soon..._
 
 
-### <a name="Relay_response_to_1S_opening"> Relay response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="Relay_response_to_1S_opening"> Relay response to 1S opening
 
 When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 spades, they should make a relay response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png).
 
@@ -227,7 +227,7 @@ Opener rebids as follows:
 _Coming soon..._
 
 
-### <a name="1NT_response_to_1S_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png) opening
+### <a name="1NT_response_to_1S_opening"> 1NT response to 1S opening
 
 When responder has ca. 6-11 HCP and fewer than 4 spades, they should make a non-forcing response of 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
