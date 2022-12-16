@@ -1,10 +1,10 @@
-## <a name="1NT_opening"> {1NT} opening
+## <a name="1NT_opening"> 1NT opening
 
-All balanced (4333, 4432, and 5332) hands with 13-15 HCP should be opened {1NT} - except that a 5332 hand with a 5-card major can be opened [{1S}](#1S_opening) or [{1H}](#1H_opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
+All balanced (4333, 4432, and 5332) hands with 13-15 HCP should be opened {1NT} - except that a 5332 hand with a 5-card major can be opened [{1S}](#-1s-opening) or [{1H}](#-1h-opening) if it does not feel "no-trumpy", e.g. if values are concentrated in the major.
 
 A {1NT} opening bid is not forcing.
 
-By partnership agreement, you might also open {1NT} (rather than [{1D}](#1D_opening)) with the best 12 HCP balanced hands.
+By partnership agreement, you might also open {1NT} (rather than [{1D}](#-1d-opening)) with the best 12 HCP balanced hands.
 
 ##### Some examples
 
@@ -16,7 +16,7 @@ A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediate
 
 > {| s:A9 h:J84 d:QT2 c:AJT97 --shape --hcp |}
 
-A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened [{1D}](#1D_opening) instead:
+A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates and only 1 quick trick - that should be opened [{1D}](#-1d-opening) instead:
 
 > {| s:QJ2 h:J82 d:QJ63 c:KQ5 --shape --hcp |}
 
@@ -24,7 +24,7 @@ A balanced hand with 15 HCP and a 5-card major that should be opened {1NT}:
 
 > {| s:AJ h:QJ763 d:AT2 c:K98 --shape --hcp |}
 
-A balanced hand with 13 HCP and values concentrated in the 5-card major that could be opened [{1S}](#1S_opening) instead:
+A balanced hand with 13 HCP and values concentrated in the 5-card major that could be opened [{1S}](#-1s-opening) instead:
 
 > {| s:AKQJ9 h:43 d:762 c:QJ2 --shape --hcp |}
 

@@ -1,4 +1,4 @@
-### <a name="Weak_transfer_responses_to_1D_opening"> Weak transfer responses to {1D} opening
+### <a name="Weak_transfer_responses_to_1D_opening"> Weak transfer responses to 1D opening
 
 When responder has less-than-invitational strength even if opener has a 16-18 HCP hand - ca. 6 HCP or less - and has 5+ cards in a suit other than diamonds, they can make a weak transfer response and then pass opener's forced rebid, as follows:
 
