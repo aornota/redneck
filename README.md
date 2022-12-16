@@ -253,7 +253,7 @@ _Coming soon..._
 
 
 
-## <a name="1H_opening"> 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+## <a name="1H_opening"> 1H opening
 
 All unbalanced hands (and the occasional 5332 hand) with ca. 11-19 HCP and with 4+ hearts are opened 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png).
 
@@ -268,22 +268,22 @@ _Coming soon..._
 
 #### Responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
 
-If responder has a weak hand with a long suit (ideally 7+ cards) other than hearts - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#Weak_responses_to_1H_opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
+If responder has a weak hand with a long suit (ideally 7+ cards) other than hearts - such that their hand is essentially worthless unless their suit is the trump suit - they should make a [weak response](#-weak-responses-to-1h-opening) (2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
 
-If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#Pre-emptive_responses_to_1H_opening) (2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)) - or pass with a very weak hand with exactly 4 hearts and no singleton or void.
+If responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a [pre-emptive response](#-pre-emptive-responses-to-1h-opening) (2![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png), 3![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) or 4![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png)) - or pass with a very weak hand with exactly 4 hearts and no singleton or void.
 
-If responder has 4+ hearts and ca. 7-11 HCP, they should make a [Bergen response](#Bergen_responses_to_1H_opening) (3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
+If responder has 4+ hearts and ca. 7-11 HCP, they should make a [Bergen response](#-bergen-responses-to-1h-opening) (3![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 3![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
 
-If responder has 4+ hearts and ca. 12+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead (3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
+If responder has 4+ hearts and ca. 12+ HCP, they should make a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#-jacoby-2nt-response-to-1h-opening) - or, with a singleton or void (but not a singleton Ace) they might prefer a [splinter response](#-splinter-responses-to-1h-opening) instead (3![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png), 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) or 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png)).
 
-If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a [relay response](#Relay_response_to_1H_opening) (1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
+If responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a [relay response](#-relay-response-to-1h-opening) (1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png)).
 
-If responder has ca. 6-11 HCP and fewer than 4 hearts, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_response_to_1H_opening).
+If responder has ca. 6-11 HCP and fewer than 4 hearts, they should [respond 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-1nt-response-to-1h-opening).
 
 
 Otherwise, responder should pass.
 
-### <a name="Weak_responses_to_1H_opening"> Weak responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="Weak_responses_to_1H_opening"> Weak responses to 1H opening
 
 When responder has a weak hand with a long suit (ideally 7+ cards) other than hearts, they should make a weak response of 2![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png), 2![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) or 2![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png). (These are analogous to weak jump responses in a standard system.)
 
@@ -295,7 +295,7 @@ A very weak hand with long diamonds that should make a weak response of 2![D](ht
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)T8![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)5![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)Q975432![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)T52 -- very unbalanced (_2_=_1_=**7**=3) | 2 HCP
 
-### <a name="Pre-emptive_responses_to_1H_opening"> Pre-emptive responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="Pre-emptive_responses_to_1H_opening"> Pre-emptive responses to 1H opening
 
 When responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a pre-emptive raise in hearts:
 
@@ -317,7 +317,7 @@ Opener will usually pass the pre-emptive raise; with a strong hand, they might b
 _Coming soon..._
 
 
-### <a name="Bergen_responses_to_1H_opening"> Bergen responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="Bergen_responses_to_1H_opening"> Bergen responses to 1H opening
 
 When responder has 4+ hearts and ca. 7-11 HCP, they shuuld bid as follows:
 
@@ -332,11 +332,11 @@ When responder has 4+ hearts and ca. 7-11 HCP, they shuuld bid as follows:
 _Coming soon..._
 
 
-### <a name="Jacoby_2NT_response_to_1H_opening"> Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="Jacoby_2NT_response_to_1H_opening"> Jacoby 2NT response to 1H opening
 
 When responder has 4+ hearts and ca. 12+ HCP, they should make a game-forcing response of 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
-(However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#Splinter_responses_to_1H_opening) instead.)
+(However, with a singleton or void - but not a singleton Ace - they might prefer a [splinter response](#-splinter-responses-to-1h-opening) instead.)
 
 Opener rebids as follows:
 
@@ -352,7 +352,7 @@ Opener rebids as follows:
 _Coming soon..._
 
 
-### <a name="Splinter_responses_to_1H_opening"> Splinter responses to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="Splinter_responses_to_1H_opening"> Splinter responses to 1H opening
 
 When responder has 4+ hearts, ca. 12+ HCP, and a singleton or void (but not a singleton Ace), they should make a game-forcing double-jump response:
 
@@ -360,14 +360,14 @@ When responder has 4+ hearts, ca. 12+ HCP, and a singleton or void (but not a si
 - 4![C](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/C.png) shows a singleton or void in clubs.
 - 4![D](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/D.png) shows a singleton or void in diamonds.
 
-(However, by partnership agreement, a strong responder might prefer a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#Jacoby_2NT_response_to_1H_opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
+(However, by partnership agreement, a strong responder might prefer a [Jacoby 2![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response](#-jacoby-2nt-response-to-1h-opening) instead, e.g. if they want to find out more about opener's hand rather than telling opener about their singleton or void.)
 
 ##### Some examples
 
 _Coming soon..._
 
 
-### <a name="Relay_response_to_1H_opening"> Relay response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="Relay_response_to_1H_opening"> Relay response to 1H opening
 
 When responder has a game-forcing hand - ca. 12+ HCP - and fewer than 4 hearts, they should make a relay response of 1![S](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/S.png).
 
@@ -392,7 +392,7 @@ Opener rebids as follows:
 _Coming soon..._
 
 
-### <a name="1NT_response_to_1H_opening"> 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png) response to 1![H](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/H.png) opening
+### <a name="1NT_response_to_1H_opening"> 1NT response to 1H opening
 
 When responder has ca. 6-11 HCP and fewer than 4 hearts, they should make a non-forcing response of 1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png).
 
@@ -435,7 +435,7 @@ A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates 
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)QJ2![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J82![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QJ63![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)KQ5 -- balanced (3=3=_**4**_=3) | 12 HCP
 
-A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#1NT_opening) instead by partnership agreement:
+A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened [1![NT](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/NT.png)](#-1nt-opening) instead by partnership agreement:
 
 > ![spade](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/spade.png)A9![heart](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/heart.png)J84![diamond](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/diamond.png)QT2![club](https://raw.githubusercontent.com/aornota/redneck/main/src/resources/club.png)AJT97 -- balanced (_2_=3=3=**5**) | 12 HCP
 

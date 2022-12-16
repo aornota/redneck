@@ -18,7 +18,7 @@ A balanced hand with a "bad" 12 HCP - 4333 and "quacky" with poor intermediates 
 
 > {| s:QJ2 h:J82 d:QJ63 c:KQ5 --shape --hcp |}
 
-A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened [{1NT}](#1NT_opening) instead by partnership agreement:
+A balanced hand with a "good" 12 HCP - decent 5-card suit with good intermediates and 2 quick tricks  - that could be opened [{1NT}](#-1nt-opening) instead by partnership agreement:
 
 > {| s:A9 h:J84 d:QT2 c:AJT97 --shape --hcp |}
 

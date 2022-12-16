@@ -1,4 +1,4 @@
-### <a name="Pre-emptive_responses_to_1H_opening"> Pre-emptive responses to {1H} opening
+### <a name="Pre-emptive_responses_to_1H_opening"> Pre-emptive responses to 1H opening
 
 When responder has a weak hand (ca. 6 HCP or less) with 4+ hearts, they should make a pre-emptive raise in hearts:
 

@@ -1,4 +1,4 @@
-### <a name="Bergen_responses_to_1H_opening"> Bergen responses to {1H} opening
+### <a name="Bergen_responses_to_1H_opening"> Bergen responses to 1H opening
 
 When responder has 4+ hearts and ca. 7-11 HCP, they shuuld bid as follows:
 
